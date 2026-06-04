@@ -31,8 +31,8 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
       "venue": "Etihad Stadium",
-      "start": "2026-06-08T23:15:00+05:45",
-      "end": "2026-06-09T01:15:00+05:45",
+      "start": "2026-06-04T13:15:00+05:45",
+      "end": "2026-06-04T20:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-mci-ars"
     },
     {
@@ -132,8 +132,8 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "format": "ODI",
       "venue": "Lord's, London",
-      "start": "2026-06-07T19:00:00+05:45",
-      "end": "2026-06-07T23:00:00+05:45",
+      "start": "2026-06-03T19:00:00+05:45",
+      "end": "2026-06-03T23:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-ind-eng"
     },
     {
