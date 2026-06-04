@@ -1,9 +1,10 @@
 {
-  "updated": "2025-06-01T00:00:00+05:45",
-  "football": [
+  "updated": "2026-06-04T00:00:00+05:45",
+  "matches": [
     {
-      "id": "f001",
-      "competition": "UEFA Champions League",
+      "id": "ucl-final",
+      "sport": "football",
+      "competition": "UEFA Champions League Final",
       "competition_short": "UCL",
       "badge": "ucl",
       "home_team": "Real Madrid",
@@ -13,12 +14,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
       "venue": "Wembley, London",
-      "start": "2026-06-01T22:15:00+05:45",
-      "end": "2026-06-02T04:15:00+05:45",
+      "start": "2026-06-07T02:15:00+05:45",
+      "end": "2026-06-07T04:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-final"
     },
     {
-      "id": "f002",
+      "id": "epl-mci-ars",
+      "sport": "football",
       "competition": "English Premier League",
       "competition_short": "EPL",
       "badge": "epl",
@@ -29,12 +31,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
       "venue": "Etihad Stadium",
-      "start": "2025-05-29T23:15:00+05:45",
-      "end": "2025-05-30T01:15:00+05:45",
+      "start": "2026-06-08T23:15:00+05:45",
+      "end": "2026-06-09T01:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-mci-ars"
     },
     {
-      "id": "f003",
+      "id": "ucl-psg-bay",
+      "sport": "football",
       "competition": "UEFA Champions League",
       "competition_short": "UCL",
       "badge": "ucl",
@@ -45,12 +48,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
       "venue": "Parc des Princes, Paris",
-      "start": "2026-05-28T02:15:00+05:45",
-      "end": "2026-06-28T04:15:00+05:45",
+      "start": "2026-06-10T02:15:00+05:45",
+      "end": "2026-06-10T04:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-psg-bay"
     },
     {
-      "id": "f004",
+      "id": "epl-che-liv",
+      "sport": "football",
       "competition": "English Premier League",
       "competition_short": "EPL",
       "badge": "epl",
@@ -61,12 +65,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
       "venue": "Stamford Bridge, London",
-      "start": "2025-06-03T22:15:00+05:45",
-      "end": "2025-06-04T00:15:00+05:45",
+      "start": "2026-06-11T22:15:00+05:45",
+      "end": "2026-06-12T00:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-che-liv"
     },
     {
-      "id": "f005",
+      "id": "laliga-bar-atm",
+      "sport": "football",
       "competition": "La Liga",
       "competition_short": "LA LIGA",
       "badge": "laliga",
@@ -77,12 +82,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
       "venue": "Nou Camp, Barcelona",
-      "start": "2025-06-04T01:00:00+05:45",
-      "end": "2025-06-04T03:00:00+05:45",
+      "start": "2026-06-12T01:00:00+05:45",
+      "end": "2026-06-12T03:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-bar-atm"
     },
     {
-      "id": "f006",
+      "id": "seriea-acm-int",
+      "sport": "football",
       "competition": "Serie A",
       "competition_short": "SERIE A",
       "badge": "seriea",
@@ -93,12 +99,13 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
       "venue": "San Siro, Milan",
-      "start": "2025-06-05T23:45:00+05:45",
-      "end": "2025-06-06T01:45:00+05:45",
+      "start": "2026-06-13T23:45:00+05:45",
+      "end": "2026-06-14T01:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-acm-int"
     },
     {
-      "id": "f007",
+      "id": "wcq-nep-mas",
+      "sport": "football",
       "competition": "FIFA World Cup Qualifier",
       "competition_short": "WC QUAL",
       "badge": "wc",
@@ -109,14 +116,13 @@
       "home_logo": "",
       "away_logo": "",
       "venue": "Dashrath Stadium, Kathmandu",
-      "start": "2025-06-07T17:15:00+05:45",
-      "end": "2025-06-07T19:15:00+05:45",
+      "start": "2026-06-14T17:15:00+05:45",
+      "end": "2026-06-14T19:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wcq-nep-mas"
-    }
-  ],
-  "cricket": [
+    },
     {
-      "id": "c001",
+      "id": "wc-ind-eng",
+      "sport": "cricket",
       "competition": "ICC Cricket World Cup",
       "competition_short": "World Cup",
       "badge": "wc",
@@ -126,12 +132,13 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "format": "ODI",
       "venue": "Lord's, London",
-      "start": "2026-06-02T19:00:00+05:45",
-      "end": "2025-06-02T23:00:00+05:45",
+      "start": "2026-06-07T19:00:00+05:45",
+      "end": "2026-06-07T23:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-ind-eng"
     },
     {
-      "id": "c002",
+      "id": "t20wc-aus-pak",
+      "sport": "cricket",
       "competition": "ICC T20 World Cup",
       "competition_short": "T20 WC",
       "badge": "t20",
@@ -141,13 +148,14 @@
       "away_flag": "🇵🇰",
       "format": "T20",
       "venue": "MCG, Melbourne",
-      "start": "2025-05-28T14:30:00+05:45",
-      "end": "2025-05-28T21:30:00+05:45",
+      "start": "2026-06-08T14:30:00+05:45",
+      "end": "2026-06-08T18:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20wc-aus-pak"
     },
     {
-      "id": "c003",
-      "competition": "IPL 2025",
+      "id": "ipl-mi-csk",
+      "sport": "cricket",
+      "competition": "IPL 2026",
       "competition_short": "IPL",
       "badge": "ipl",
       "home_team": "Mumbai Indians",
@@ -156,12 +164,13 @@
       "away_flag": "🏏",
       "format": "T20",
       "venue": "Wankhede, Mumbai",
-      "start": "2025-05-28T19:30:00+05:45",
-      "end": "2025-05-28T23:30:00+05:45",
+      "start": "2026-06-09T19:30:00+05:45",
+      "end": "2026-06-09T23:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ipl-mi-csk"
     },
     {
-      "id": "c004",
+      "id": "odiwc-nz-sa",
+      "sport": "cricket",
       "competition": "ICC ODI World Cup",
       "competition_short": "ODI WC",
       "badge": "odi",
@@ -171,12 +180,13 @@
       "away_flag": "🇿🇦",
       "format": "ODI",
       "venue": "Eden Park, Auckland",
-      "start": "2026-05-28T15:15:00+05:45",
-      "end": "2026-06-04T22:15:00+05:45",
+      "start": "2026-06-10T15:15:00+05:45",
+      "end": "2026-06-10T19:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odiwc-nz-sa"
     },
     {
-      "id": "c005",
+      "id": "test-sl-ban",
+      "sport": "cricket",
       "competition": "Test Series",
       "competition_short": "TEST",
       "badge": "test",
@@ -186,12 +196,13 @@
       "away_flag": "🇧🇩",
       "format": "Test",
       "venue": "SSC, Colombo",
-      "start": "2025-06-04T09:45:00+05:45",
-      "end": "2025-06-08T17:00:00+05:45",
+      "start": "2026-06-11T09:45:00+05:45",
+      "end": "2026-06-15T17:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-sl-ban"
     },
     {
-      "id": "c006",
+      "id": "asiacup-pak-ind",
+      "sport": "cricket",
       "competition": "Asia Cup T20",
       "competition_short": "Asia Cup",
       "badge": "t20",
@@ -201,8 +212,8 @@
       "away_flag": "🇮🇳",
       "format": "T20",
       "venue": "Dubai International Stadium",
-      "start": "2025-06-06T21:15:00+05:45",
-      "end": "2025-06-07T01:15:00+05:45",
+      "start": "2026-06-13T21:15:00+05:45",
+      "end": "2026-06-14T01:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=asiacup-pak-ind"
     }
   ]
