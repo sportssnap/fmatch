@@ -40,7 +40,7 @@
     {
       "id": "ucl-psg-bay",
       "sport": "football",
-      "hot_match": "yes",
+      "hot_match": "no",
       "competition": "UEFA Champions League",
       "competition_short": "UCL",
       "badge": "ucl",
@@ -76,7 +76,7 @@
     {
       "id": "laliga-bar-atm",
       "sport": "football",
-      "hot_match": "yes",
+      "hot_match": "no",
       "competition": "La Liga",
       "competition_short": "LA LIGA",
       "badge": "laliga",
@@ -112,7 +112,7 @@
     {
       "id": "wcq-nep-mas",
       "sport": "football",
-      "hot_match": "yes",
+      "hot_match": "no",
       "competition": "FIFA World Cup Qualifier",
       "competition_short": "WC QUAL",
       "badge": "wc",
@@ -130,7 +130,7 @@
     {
       "id": "wc-ind-eng",
       "sport": "cricket",
-      "hot_match": "yes",
+      "hot_match": "no",
       "competition": "ICC Cricket World Cup",
       "competition_short": "World Cup",
       "badge": "wc",
@@ -147,7 +147,7 @@
     {
       "id": "t20wc-aus-pak",
       "sport": "cricket",
-      "hot_match": "yes",
+      "hot_match": "no",
       "competition": "ICC T20 World Cup",
       "competition_short": "T20 WC",
       "badge": "t20",
