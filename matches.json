@@ -1,9 +1,10 @@
 {
-  "updated": "2026-06-04T00:00:00+05:45",
+  "updated": "2026-06-05T00:00:00+05:45",
   "matches": [
     {
       "id": "ucl-final",
       "sport": "football",
+      "hot_match": "yes",
       "competition": "UEFA Champions League Final",
       "competition_short": "UCL",
       "badge": "ucl",
@@ -21,6 +22,7 @@
     {
       "id": "epl-mci-ars",
       "sport": "football",
+      "hot_match": "no",
       "competition": "English Premier League",
       "competition_short": "EPL",
       "badge": "epl",
@@ -31,13 +33,14 @@
       "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
       "venue": "Etihad Stadium",
-      "start": "2026-06-04T13:15:00+05:45",
-      "end": "2026-06-04T20:15:00+05:45",
+      "start": "2026-06-08T23:15:00+05:45",
+      "end": "2026-06-09T01:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-mci-ars"
     },
     {
       "id": "ucl-psg-bay",
       "sport": "football",
+      "hot_match": "yes",
       "competition": "UEFA Champions League",
       "competition_short": "UCL",
       "badge": "ucl",
@@ -55,6 +58,7 @@
     {
       "id": "epl-che-liv",
       "sport": "football",
+      "hot_match": "no",
       "competition": "English Premier League",
       "competition_short": "EPL",
       "badge": "epl",
@@ -72,6 +76,7 @@
     {
       "id": "laliga-bar-atm",
       "sport": "football",
+      "hot_match": "yes",
       "competition": "La Liga",
       "competition_short": "LA LIGA",
       "badge": "laliga",
@@ -89,6 +94,7 @@
     {
       "id": "seriea-acm-int",
       "sport": "football",
+      "hot_match": "no",
       "competition": "Serie A",
       "competition_short": "SERIE A",
       "badge": "seriea",
@@ -106,6 +112,7 @@
     {
       "id": "wcq-nep-mas",
       "sport": "football",
+      "hot_match": "yes",
       "competition": "FIFA World Cup Qualifier",
       "competition_short": "WC QUAL",
       "badge": "wc",
@@ -123,6 +130,7 @@
     {
       "id": "wc-ind-eng",
       "sport": "cricket",
+      "hot_match": "yes",
       "competition": "ICC Cricket World Cup",
       "competition_short": "World Cup",
       "badge": "wc",
@@ -132,13 +140,14 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "format": "ODI",
       "venue": "Lord's, London",
-      "start": "2026-06-03T19:00:00+05:45",
-      "end": "2026-06-03T23:00:00+05:45",
+      "start": "2026-06-07T19:00:00+05:45",
+      "end": "2026-06-07T23:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-ind-eng"
     },
     {
       "id": "t20wc-aus-pak",
       "sport": "cricket",
+      "hot_match": "yes",
       "competition": "ICC T20 World Cup",
       "competition_short": "T20 WC",
       "badge": "t20",
@@ -155,6 +164,7 @@
     {
       "id": "ipl-mi-csk",
       "sport": "cricket",
+      "hot_match": "no",
       "competition": "IPL 2026",
       "competition_short": "IPL",
       "badge": "ipl",
@@ -171,6 +181,7 @@
     {
       "id": "odiwc-nz-sa",
       "sport": "cricket",
+      "hot_match": "no",
       "competition": "ICC ODI World Cup",
       "competition_short": "ODI WC",
       "badge": "odi",
@@ -187,6 +198,7 @@
     {
       "id": "test-sl-ban",
       "sport": "cricket",
+      "hot_match": "no",
       "competition": "Test Series",
       "competition_short": "TEST",
       "badge": "test",
@@ -203,6 +215,7 @@
     {
       "id": "asiacup-pak-ind",
       "sport": "cricket",
+      "hot_match": "yes",
       "competition": "Asia Cup T20",
       "competition_short": "Asia Cup",
       "badge": "t20",
