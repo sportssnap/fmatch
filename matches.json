@@ -1,15 +1,15 @@
-{
-  "updated": "2026-06-09T00:00:00+05:45",
+ {
+ "updated": "2026-06-10T00:00:00+05:45",
   "matches": [
     {
       "id": "wc-mexico-sa",
       "sport": "football",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "FIFA World Cup Round 1",
       "competition_short": "WC",
       "badge": "wc",
       "home_team": "Mexico",
-      "away_team": "Sauth Africa",
+      "away_team": "South Africa",
       "home_flag": "🇲🇽",
       "away_flag": "🇿🇦",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
@@ -17,7 +17,7 @@
       "venue": "Mexico City Stadium",
       "start": "2026-06-12T00:45:00+05:45",
       "end": "2026-06-12T03:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-sa"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-mexico-sa"
     },
     {
       "id": "wc-sk-czechia",
@@ -34,8 +34,8 @@
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
       "venue": "Guadalajara Stadium",
       "start": "2026-06-12T07:45:00+05:45",
-      "end": "2026-06-09T10:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-sk"
+      "end": "2026-06-12T10:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-sk-czechia"
     },
     {
       "id": "wc-can-bh",
@@ -58,7 +58,7 @@
     {
       "id": "wc-usa-pg",
       "sport": "football",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "FIFA World Cup Round 1",
       "competition_short": "WC",
       "badge": "wc",
@@ -76,7 +76,7 @@
     {
       "id": "laliga-bar-atm",
       "sport": "football",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "La Liga",
       "competition_short": "LA LIGA",
       "badge": "laliga",
@@ -112,7 +112,7 @@
     {
       "id": "wcq-nep-mas",
       "sport": "football",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "FIFA World Cup Qualifier",
       "competition_short": "WC QUAL",
       "badge": "wc",
@@ -130,7 +130,7 @@
     {
       "id": "wc-ind-eng",
       "sport": "cricket",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "ICC Cricket World Cup",
       "competition_short": "World Cup",
       "badge": "wc",
@@ -140,14 +140,14 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "format": "ODI",
       "venue": "Lord's, London",
-      "start": "2026-06-07T19:00:00+05:45",
-      "end": "2026-06-07T23:00:00+05:45",
+      "start": "2026-06-12T19:00:00+05:45",
+      "end": "2026-06-12T23:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-ind-eng"
     },
     {
       "id": "t20wc-aus-pak",
       "sport": "cricket",
-      "hot_match": "no",
+      "hot_match": "yes",
       "competition": "ICC T20 World Cup",
       "competition_short": "T20 WC",
       "badge": "t20",
@@ -157,8 +157,8 @@
       "away_flag": "🇵🇰",
       "format": "T20",
       "venue": "MCG, Melbourne",
-      "start": "2026-06-08T14:30:00+05:45",
-      "end": "2026-06-08T18:30:00+05:45",
+      "start": "2026-06-13T14:30:00+05:45",
+      "end": "2026-06-13T18:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20wc-aus-pak"
     },
     {
@@ -174,8 +174,8 @@
       "away_flag": "🏏",
       "format": "T20",
       "venue": "Wankhede, Mumbai",
-      "start": "2026-06-09T19:30:00+05:45",
-      "end": "2026-06-09T23:30:00+05:45",
+      "start": "2026-06-14T19:30:00+05:45",
+      "end": "2026-06-14T23:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ipl-mi-csk"
     },
     {
@@ -191,8 +191,8 @@
       "away_flag": "🇿🇦",
       "format": "ODI",
       "venue": "Eden Park, Auckland",
-      "start": "2026-06-10T15:15:00+05:45",
-      "end": "2026-06-10T19:15:00+05:45",
+      "start": "2026-06-15T15:15:00+05:45",
+      "end": "2026-06-15T19:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odiwc-nz-sa"
     },
     {
