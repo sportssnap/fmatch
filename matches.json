@@ -15,8 +15,8 @@
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316_small.png",
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
       "venue": "Los Angeles Stadium",
-      "start": "2026-06-29T12:45:00+05:45",
-      "end": "2026-06-29T03:00:00+05:45",
+      "start": "2026-06-28T12:45:00+05:45",
+      "end": "2026-06-28T03:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-za-ca"
     },
     {
@@ -33,7 +33,7 @@
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
       "venue": "Houston Stadium",
-      "start": "2026-06-29T10:45:00+05:45",
+      "start": "2026-06-29T22:45:00+05:45",
       "end": "2026-06-30T01:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-br-jp"
     },
