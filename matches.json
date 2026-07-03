@@ -2,22 +2,22 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "wc-es-at",
+      "id": "wc-co-gh",
       "sport": "football",
       "hot_match": "yes",
       "competition": "FIFA World Cup Round of 32",
       "competition_short": "WC",
       "badge": "wc",
-      "home_team": "Spain",
-      "away_team": "Austria",
-      "home_flag": "🇪🇸",
-      "away_flag": "🇦🇹",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
-      "venue": "Los Angeles Stadium",
-      "start": "2026-07-03T00:45:00+05:45",
-      "end": "2026-07-03T03:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-es-at"
+      "home_team": "Colombia",
+      "away_team": "Ghana",
+      "home_flag": "🇨🇴",
+      "away_flag": "🇬🇭",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
+      "venue": "Kansas City Stadium",
+      "start": "2026-07-04T07:15:00+05:45",
+      "end": "2026-07-04T10:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=wc-co-gh"
     },
     {
       "id": "wc-pt-hr",
