@@ -64,7 +64,7 @@
       "id": "t20-zw-bd",
       "sport": "cricket",
       "hot_match": "yes",
-      "competition": "2nd T20",
+      "competition": "3rd T20",
       "competition_short": "T20",
       "badge": "t20",
       "home_team": "Zimbabwe",
@@ -75,8 +75,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/W.png",
       "format": "T20",
       "venue": "Queen’s Sports Club Cricket Ground",
-      "start": "2026-07-17T16:15:00+05:45",
-      "end": "2026-07-17T20:15:00+05:45",
+      "start": "2026-07-19T16:15:00+05:45",
+      "end": "2026-07-19T20:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-zw-bd"
     },
 
@@ -84,7 +84,7 @@
       "id": "odi-ws-nz",
       "sport": "cricket",
       "hot_match": "yes",
-      "competition": "3rd ODI",
+      "competition": "4th ODI",
       "competition_short": "ODI",
       "badge": "odi",
       "home_team": "West Indies",
@@ -94,9 +94,9 @@
       "home_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/R.png",
       "format": "ODI",
-      "venue": "Providence Cricket Stadium",
-      "start": "2026-07-17T00:15:00+05:45",
-      "end": "2026-07-17T07:15:00+05:45",
+      "venue": "Kensington Oval",
+      "start": "2026-07-19T19:45:00+05:45",
+      "end": "2026-07-20T02:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ws-nz"
     },
     
