@@ -45,7 +45,7 @@
       "id": "odi-el-in",
       "sport": "cricket",
       "hot_match": "yes",
-      "competition": "2nd ODI",
+      "competition": "3rd ODI",
       "competition_short": "ODI",
       "badge": "odi",
       "home_team": "England",
@@ -55,9 +55,9 @@
       "home_logo": "https://cricketvectors.akamaized.net/Teams/S.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
       "format": "ODI",
-      "venue": "Sophia Gardens Cricket Ground",
-      "start": "2026-07-16T17:45:00+05:45",
-      "end": "2026-07-17T00:45:00+05:45",
+      "venue": "Lord's Cricket Ground",
+      "start": "2026-07-19T15:45:00+05:45",
+      "end": "2026-07-19T22:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-el-in"
     },
     {
