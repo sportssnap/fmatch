@@ -5,6 +5,7 @@
       "id": "wc-fr-el",
       "sport": "football",
       "hot_match": "yes",
+      "featured_match": "yes",
       "competition": "FIFA World Cup Bronze-final",
       "competition_short": "BF",
       "badge": "wc",
