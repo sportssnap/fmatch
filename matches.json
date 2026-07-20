@@ -25,6 +25,7 @@
       "id": "wc-es-ar",
       "sport": "football",
       "hot_match": "yes",
+      "featured_match": "yes",
       "competition": "FIFA World Cup Final",
       "competition_short": "WC Final",
       "badge": "wc",
