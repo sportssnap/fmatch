@@ -103,21 +103,24 @@
     },
     
     {
-      "id": "asiacup-pak-ind",
+      "id": "cwc-np-na",
       "sport": "cricket",
       "hot_match": "yes",
-      "competition": "Asia Cup T20",
-      "competition_short": "Asia Cup",
-      "badge": "t20",
-      "home_team": "Pakistan",
-      "away_team": "India",
-      "home_flag": "🇵🇰",
-      "away_flag": "🇮🇳",
-      "format": "T20",
-      "venue": "Dubai International Stadium",
-      "start": "2026-05-13T21:15:00+05:45",
-      "end": "2026-05-14T01:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=asiacup-pak-ind"
+      "featured_match": "yes",
+      "competition": "CWC League II",
+      "competition_short": "ODI",
+      "badge": "odi",
+      "home_team": "Nepal",
+      "away_team": "Namibia",
+      "home_flag": "🇳🇵",
+      "away_flag": "🇳🇦",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/6X.png",
+      "format": "ODI",
+      "venue": "Sportpark Maarschalkerweerd",
+      "start": "2026-07-21T14:45:00+05:45",
+      "end": "2026-07-21T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-np-na"
     }
   ]
 }
