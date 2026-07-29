@@ -168,7 +168,7 @@
     },
     
     {
-      "id": "cwc-np-na",
+      "id": "cwc-np-nl",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
@@ -176,16 +176,16 @@
       "competition_short": "CWC",
       "badge": "odi",
       "home_team": "Nepal",
-      "away_team": "Namibia",
+      "away_team": "Netherlands",
       "home_flag": "🇳🇵",
-      "away_flag": "🇳🇦",
+      "away_flag": "🇳🇱",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/6X.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/12.png",
       "format": "ODI",
       "venue": "Sportpark Maarschalkerweerd, Kompong Club Ground, Utrecht",
-      "start": "2026-07-27T14:45:00+05:45",
-      "end": "2026-07-27T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-np-na"
+      "start": "2026-07-29T14:45:00+05:45",
+      "end": "2026-07-29T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-np-nl"
     }
   ]
 }
