@@ -2,7 +2,50 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "club-che-wsw",
+      "id": "club-juv-nice",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Club friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Juventus",
+      "away_team": "Nice",
+      "home_flag": "⚪⚫",
+      "away_flag": "🔴⚫",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+      "venue": "Juventus Training Center Continassa",
+      "start": "2026-07-31T21:45:00+05:45",
+      "end": "2026-07-31T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-juv-nice"
+    },
+
+   
+    {
+      "id": "club-city-barca",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Club friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Birmingham City",
+      "away_team": "Barcelona",
+      "home_flag": "🔵⚪",
+      "away_flag": "🔵🔴",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8658_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "venue": "St. Andrew's @ Knighthead Park",
+      "start": "2026-08-01T00:30:00+05:45",
+      "end": "2026-08-01T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-city-barca"
+    },
+
+
+
+   {
+      "id": "club-che-tot",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
@@ -10,20 +53,65 @@
       "competition_short": "Friendlies",
       "badge": "friendlies",
       "home_team": "Chelsea",
-      "away_team": "Western Sydney Wanderers FC",
+      "away_team": "Tottenham Hotspur",
       "home_flag": "🔵⚪",
-      "away_flag": "🔴⚫",
+      "away_flag": "⚪🔵",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/323834_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
       "venue": "  ",
-      "start": "2026-07-28T15:30:00+05:45",
-      "end": "2026-07-28T17:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-che-wsw"
+      "start": "2026-08-01T15:30:00+05:45",
+      "end": "2026-08-01T17:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-che-tot"
     },
 
-   
-    {
-      "id": "club-real-leg",
+
+
+   {
+      "id": "club-city-inter",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Club friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Manchester City",
+      "away_team": "Inter",
+      "home_flag": "🔵⚪",
+      "away_flag": "🔵⚫",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "venue": "Kai Tak Sports Park",
+      "start": "2026-08-01T17:15:00+05:45",
+      "end": "2026-08-01T19:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-city-inter"
+    },
+
+
+
+   {
+      "id": "club-united-madrid",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Club friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Manchester United",
+      "away_team": "Atletico Madrid",
+      "home_flag": "🔴⚪",
+      "away_flag": "🔴⚪",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+      "venue": "Strawberry Arena",
+      "start": "2026-08-01T18:45:00+05:45",
+      "end": "2026-08-01T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-united-madrid"
+    },
+
+
+
+   {
+      "id": "club-real-fior",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
@@ -31,80 +119,59 @@
       "competition_short": "Friendlies",
       "badge": "friendlies",
       "home_team": "Real Madrid",
-      "away_team": "Leganes",
+      "away_team": "Fiorentina",
       "home_flag": "⚪👑",
-      "away_flag": "🔵⚪",
+      "away_flag": "🟣⚜️",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7854_small.png",
-      "venue": "  ",
-      "start": "2026-07-28T21:45:00+05:45",
-      "end": "2026-07-28T23:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-real-leg"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+      "venue": "Sportpark Klagenfurt",
+      "start": "2026-08-01T21:45:00+05:45",
+      "end": "2026-08-01T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-real-fior"
     },
 
 
 
    {
-      "id": "club-lens-cry",
+      "id": "club-giro-ars",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Club friendlies",
       "competition_short": "Friendlies",
       "badge": "friendlies",
-      "home_team": "Lens",
-      "away_team": "Crystal Palace",
-      "home_flag": "🔴🟡",
-      "away_flag": "🔴🔵",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-      "venue": "Stade François Blin",
-      "start": "2026-07-28T22:45:00+05:45",
-      "end": "2026-07-29T00:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-lens-cry"
+      "home_team": "Girona",
+      "away_team": "Arsenal",
+      "home_flag": "🔴⚪",
+      "away_flag": "🔴⚪",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "venue": "Estadi Municipal de Montilivi",
+      "start": "2026-08-01T23:45:00+05:45",
+      "end": "2026-08-02T01:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-giro-ars"
     },
 
 
 
    {
-      "id": "club-villa-real",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Aston Villa",
-      "away_team": "Real Sociedad",
-      "home_flag": "🟣🔵",
-      "away_flag": "🔵⚪",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-      "venue": "Pallet-Track Bescot Stadium",
-      "start": "2026-07-29T00:15:00+05:45",
-      "end": "2026-07-29T02:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-villa-real"
-    },
-
-
-   {
-      "id": "mls-mon-miami",
+      "id": "mls-miami-col",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Major League Soccer",
       "competition_short": "MLS",
       "badge": "mls",
-      "home_team": "CF Montreal",
-      "away_team": "Inter Miami CF",
-      "home_flag": "🔵⚫",
-      "away_flag": "🖤",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/161195_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "venue": "Stade Saputo",
-      "start": "2026-07-26T05:15:00+05:45",
-      "end": "2026-07-26T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-mon-miami"
+      "home_team": "Inter Miami CF",
+      "away_team": "Columbus Crew",
+      "home_flag": "🖤",
+      "away_flag": "🟡⚫",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png",
+      "venue": "Nu Stadium",
+      "start": "2026-08-02T05:15:00+05:45",
+      "end": "2026-08-02T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-col"
     },
     
     
