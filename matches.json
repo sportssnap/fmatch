@@ -2,23 +2,23 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "club-bay-sk",
+      "id": "club-city-atle",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Club friendlies",
       "competition_short": "Friendlies",
       "badge": "friendlies",
-      "home_team": "Bayern München",
-      "away_team": "Jeju SK",
-      "home_flag": "🔴⚪",
-      "away_flag": "🟠⚫",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/133898_small.png",
-      "venue": "  ",
-      "start": "2026-08-04T16:45:00+05:45",
-      "end": "2026-08-04T18:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-bay-sk"
+      "home_team": "Manchester City",
+      "away_team": "Atletico Madrid",
+      "home_flag": "🔵⚪",
+      "away_flag": "🔴⚪",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+      "venue": "Seoul World Cup Stadium",
+      "start": "2026-08-09T16:45:00+05:45",
+      "end": "2026-08-09T18:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-city-atle"
     },
 
    
