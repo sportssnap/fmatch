@@ -23,117 +23,29 @@
 
    
     {
-      "id": "club-united-villa",
+      "id": "club-zim-che",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Club friendlies",
       "competition_short": "Friendlies",
       "badge": "friendlies",
-      "home_team": "BG Pathum United",
-      "away_team": "Aston Villa",
-      "home_flag": "🔵⚪",
-      "away_flag": "🟣🔵",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/165250_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "venue": "True BG Stadium",
-      "start": "2026-08-04T18:15:00+05:45",
-      "end": "2026-08-04T20:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-united-villa"
-    },
-
-
-
-   {
-      "id": "club-new-roma",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Newport County",
-      "away_team": "Roma",
-      "home_flag": "🟠⚫",
-      "away_flag": "🟡🔴",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10262_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-      "venue": "Rodney Parade",
-      "start": "2026-08-04T23:45:00+05:45",
-      "end": "2026-08-05T01:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-new-roma"
-    },
-
-
-
-   {
-      "id": "club-milan-inter",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Milan",
-      "away_team": "Inter",
-      "home_flag": "🔴⚫",
-      "away_flag": "🔵⚫",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-      "venue": "Optus Stadium",
-      "start": "2026-08-05T16:45:00+05:45",
-      "end": "2026-08-05T18:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-milan-inter"
-    },
-
-
-
-   {
-      "id": "club-star-city",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "K-League All Stars",
-      "away_team": "Manchester City",
-      "home_flag": "⭐🔵",
+      "home_team": "Johor Darul Ta'zim",
+      "away_team": "Chelsea",
+      "home_flag": "🔵🔴",
       "away_flag": "🔵⚪",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/207969_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "venue": "  ",
-      "start": "2026-08-05T16:45:00+05:45",
-      "end": "2026-08-05T18:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-star-city"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/165228_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "venue": "Stadium Sultan Ibrahim Larkin",
+      "start": "2026-08-09T17:45:00+05:45",
+      "end": "2026-08-09T19:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-zim-che"
     },
 
 
 
    {
-      "id": "club-che-juv",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Chelsea",
-      "away_team": "Juventus",
-      "home_flag": "🔵⚪",
-      "away_flag": "⚪⚫",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-      "venue": "Kai Tak Sports Park",
-      "start": "2026-08-05T17:15:00+05:45",
-      "end": "2026-08-05T19:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-che-juv"
-    },
-
-
-
-   {
-      "id": "club-ars-betis",
+      "id": "club-ars-dort",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
@@ -141,21 +53,43 @@
       "competition_short": "Friendlies",
       "badge": "friendlies",
       "home_team": "Arsenal",
-      "away_team": "Real Betis",
+      "away_team": "Borussia Dortmund",
       "home_flag": "🔴⚪",
-      "away_flag": "🟢⚪",
+      "away_flag": "🟡⚫",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-      "venue": "Aviva Stadium",
-      "start": "2026-08-06T00:15:00+05:45",
-      "end": "2026-08-06T02:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-ars-betis"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+      "venue": "Emirates Stadium",
+      "start": "2026-08-09T18:45:00+05:45",
+      "end": "2026-08-09T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-ars-dort"
     },
 
 
 
    {
-      "id": "leagues-miami-luis",
+      "id": "club-liv-mona",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Club friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Liverpool",
+      "away_team": "Monaco",
+      "home_flag": "🔴⚪",
+      "away_flag": "🔴⚪",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+      "venue": "Anfield",
+      "start": "2026-08-09T19:15:00+05:45",
+      "end": "2026-08-09T21:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-liv-mona"
+    },
+
+
+
+   {
+      "id": "leagues-miami-leon",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
@@ -163,36 +97,36 @@
       "competition_short": "Leagues Cup",
       "badge": "leagues cup",
       "home_team": "Inter Miami CF",
-      "away_team": "Atletico de San Luis",
+      "away_team": "Leon",
       "home_flag": "🖤",
-      "away_flag": "🔴⚪",
+      "away_flag": "🟢⚪",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6358_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841_small.png",
       "venue": "Nu Stadium",
-      "start": "2026-08-06T05:15:00+05:45",
-      "end": "2026-08-06T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=leagues-miami-luis"
+      "start": "2026-08-13T05:15:00+05:45",
+      "end": "2026-08-13T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=leagues-miami-leon"
     },
     
     
     {
-      "id": "t20-zw-in",
+      "id": "test-lk-in",
       "sport": "cricket",
-      "hot_match": "yes",
-      "competition": "3rd T20",
-      "competition_short": "T20I",
-      "badge": "t20",
-      "home_team": "Zimbabwe",
+      "hot_match": "no",
+      "competition": "1st Test",
+      "competition_short": "Test 1 of 2",
+      "badge": "test",
+      "home_team": "Sri Lanka",
       "away_team": "India",
-      "home_flag": "🇿🇼",
+      "home_flag": "🇱🇰",
       "away_flag": "🇮🇳",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/X.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
-      "format": "T20",
-      "venue": "Harare Sports Club, Harare",
-      "start": "2026-07-26T16:45:00+05:45",
-      "end": "2026-07-26T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-zw-in"
+      "format": "TEST",
+      "venue": "Galle International Stadium",
+      "start": "2026-08-15T10:15:00+05:45",
+      "end": "2026-08-15T18:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-lk-in"
     },
     {
       "id": "t20-zw-bd",
@@ -215,31 +149,31 @@
     },
 
    {
-      "id": "test-ws-pk",
+      "id": "test-au-bd",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "2nd Test",
-      "competition_short": "TEST Day 3",
+      "competition": "1st Test",
+      "competition_short": "TEST 1 of 2",
       "badge": "test",
-      "home_team": "West Indies",
-      "away_team": "Pakistan",
-      "home_flag": "🇼🇸",
-      "away_flag": "🇵🇰",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/U.png",
+      "home_team": "Australia",
+      "away_team": "Bangladesh",
+      "home_flag": "🇦🇺",
+      "away_flag": "🇧🇩",
+      "home_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QYCU22ymggIHGp6LW4EQVg_96x96.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/W.png",
       "format": "TEST",
-      "venue": "Queen's Park Oval",
-      "start": "2026-08-05T19:45:00+05:45",
-      "end": "2026-08-06T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-ws-pk"
+      "venue": "Marrara Cricket Ground",
+      "start": "2026-08-13T18:15:00+05:45",
+      "end": "2026-08-14T03:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-au-bd"
     },
 
    {
       "id": "odi-ie-af",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "1st ODI",
-      "competition_short": "ODI 1 of 5",
+      "competition": "3rd ODI",
+      "competition_short": "ODI 3 of 5",
       "badge": "odi",
       "home_team": "Ireland",
       "away_team": "Afghanistan",
@@ -248,9 +182,9 @@
       "home_logo": "https://cricketvectors.akamaized.net/Teams/Z.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/Y.png",
       "format": "ODI",
-      "venue": "Bready Cricket Ground",
-      "start": "2026-08-05T15:30:00+05:45",
-      "end": "2026-08-05T22:30:00+05:45",
+      "venue": "Stormont Cricket Ground",
+      "start": "2026-08-10T15:30:00+05:45",
+      "end": "2026-08-10T22:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ie-af"
     },
     
