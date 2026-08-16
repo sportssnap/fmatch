@@ -2,111 +2,110 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "club-city-atle",
+      "id": "club-base-barca",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Club friendlies",
       "competition_short": "Friendlies",
       "badge": "friendlies",
-      "home_team": "Manchester City",
-      "away_team": "Atletico Madrid",
-      "home_flag": "🔵⚪",
-      "away_flag": "🔴⚪",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-      "venue": "Seoul World Cup Stadium",
-      "start": "2026-08-09T16:45:00+05:45",
-      "end": "2026-08-09T18:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-city-atle"
+      "home_team": "Basel",
+      "away_team": "Barcelona",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9931_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "venue": "St. Jakob-Park",
+      "start": "2026-08-16T20:15:00+05:45",
+      "end": "2026-08-16T22:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-base-barca"
     },
 
    
     {
-      "id": "club-zim-che",
+      "id": "club-scha-real",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Club friendlies",
       "competition_short": "Friendlies",
       "badge": "friendlies",
-      "home_team": "Johor Darul Ta'zim",
-      "away_team": "Chelsea",
-      "home_flag": "🔵🔴",
-      "away_flag": "🔵⚪",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/165228_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "venue": "Stadium Sultan Ibrahim Larkin",
-      "start": "2026-08-09T17:45:00+05:45",
-      "end": "2026-08-09T19:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-zim-che"
+      "home_team": "Schalke 04",
+      "away_team": "Real Madrid",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "venue": "VELTINS-Arena",
+      "start": "2026-08-16T20:45:00+05:45",
+      "end": "2026-08-16T22:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-scha-real"
     },
 
 
 
    {
-      "id": "club-ars-dort",
+      "id": "final-ars-city",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
+      "competition": "Community Shield Final",
+      "competition_short": "CSF",
+      "badge": "Community Shield Final",
       "home_team": "Arsenal",
-      "away_team": "Borussia Dortmund",
-      "home_flag": "🔴⚪",
-      "away_flag": "🟡⚫",
+      "away_team": "Manchester City",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-      "venue": "Emirates Stadium",
-      "start": "2026-08-09T18:45:00+05:45",
-      "end": "2026-08-09T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-ars-dort"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "venue": "Principality Stadium",
+      "start": "2026-08-16T19:45:00+05:45",
+      "end": "2026-08-16T19:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=final-ars-city"
     },
 
 
-
    {
-      "id": "club-liv-mona",
+      "id": "mls-miami-union",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Liverpool",
-      "away_team": "Monaco",
-      "home_flag": "🔴⚪",
-      "away_flag": "🔴⚪",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-      "venue": "Anfield",
-      "start": "2026-08-09T19:15:00+05:45",
-      "end": "2026-08-09T21:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-liv-mona"
-    },
-
-
-
-   {
-      "id": "leagues-miami-leon",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Leagues Cup Round 1",
-      "competition_short": "Leagues Cup",
-      "badge": "leagues cup",
+      "competition": "MLS Round 1",
+      "competition_short": "MLS Cup",
+      "badge": "mls cup",
       "home_team": "Inter Miami CF",
-      "away_team": "Leon",
-      "home_flag": "🖤",
-      "away_flag": "🟢⚪",
+      "away_team": "Philadelphia Union",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841_small.png",
-      "venue": "Nu Stadium",
-      "start": "2026-08-13T05:15:00+05:45",
-      "end": "2026-08-13T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=leagues-miami-leon"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",
+      "venue": "Subaru Park",
+      "start": "2026-08-20T05:15:00+05:45",
+      "end": "2026-08-20T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-union"
     },
+
+
+{
+      "id": "ufc-dhant-murdoch",
+      "sport": "ufc",
+      "hot_match": "yes",
+      "featured_match": "yes",
+      "competition": "UFC - Road to UFC Season 5: Shanghai Semifinals",
+      "competition_short": "Shanghai Semifinals",
+      "badge": "ufc",
+      "home_team": "Rabindra Dhant",
+      "away_team": "Kasib Murdoch",
+      "home_flag": "🥊",
+      "away_flag": "🥊",
+      "home_logo": "https://next-fight.com/_next/image?url=https%3A%2F%2Fsupabase-nf.next-fight.com%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ffighters%2F375262.jpg%3Ft%3D1778689405748&w=256&q=75",
+      "away_logo": "https://next-fight.com/_next/image?url=https%3A%2F%2Fsupabase-nf.next-fight.com%2Fstorage%2Fv1%2Fobject%2Fpublic%2Ffighters%2F396268.jpg%3Ft%3D1779947084535&w=256&q=75",
+      "venue": "Shanghai Indoor Stadium",
+      "start": "2026-08-28T14:45:00+05:45",
+      "end": "2026-08-28T16:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ufc-dhant-murdoch"
+    },
+   
     
     
     {
@@ -189,24 +188,24 @@
     },
     
     {
-      "id": "cwc-np-nl",
+      "id": "acc-bh-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
-      "competition": "CWC League II",
-      "competition_short": "CWC",
-      "badge": "odi",
-      "home_team": "Nepal",
-      "away_team": "Netherlands",
-      "home_flag": "🇳🇵",
-      "away_flag": "🇳🇱",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/12.png",
+      "competition": "ACC Men's Premier Cup",
+      "competition_short": "ACC",
+      "badge": "acc",
+      "home_team": "Bahrain",
+      "away_team": "Nepal",
+      "home_flag": "🇧🇭",
+      "away_flag": "🇳🇵",
+      "home_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HUez63n7xzBx0v__6EfsTA_96x96.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
       "format": "ODI",
-      "venue": "Sportpark Maarschalkerweerd, Kompong Club Ground, Utrecht",
-      "start": "2026-07-29T14:45:00+05:45",
-      "end": "2026-07-29T22:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-np-nl"
+      "venue": "UKM Cricket Oval",
+      "start": "2026-08-31T07:15:00+05:45",
+      "end": "2026-08-31T14:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-bh-np"
     }
   ]
 }
