@@ -2,87 +2,175 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "club-base-barca",
+      "id": "epl-bri-villa",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Basel",
-      "away_team": "Barcelona",
+      "competition": "Premier League Round 1",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Aston Villa",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9931_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "venue": "St. Jakob-Park",
-      "start": "2026-08-16T20:15:00+05:45",
-      "end": "2026-08-16T22:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-base-barca"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+      "venue": "American Express Stadium",
+      "start": "2026-08-23T18:45:00+05:45",
+      "end": "2026-08-23T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-bri-villa"
     },
 
    
     {
-      "id": "club-scha-real",
+      "id": "epl-city-afc",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Club friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Schalke 04",
-      "away_team": "Real Madrid",
+      "competition": "Premier League Round 1",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Manchester City",
+      "away_team": "AFC Bournemouth",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "venue": "VELTINS-Arena",
-      "start": "2026-08-16T20:45:00+05:45",
-      "end": "2026-08-16T22:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=club-scha-real"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+      "venue": "Etihad Stadium",
+      "start": "2026-08-23T18:45:00+05:45",
+      "end": "2026-08-23T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-city-afc"
     },
 
 
 
    {
-      "id": "final-ars-city",
+      "id": "epl-castle-liver",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Community Shield Final",
-      "competition_short": "CSF",
-      "badge": "Community Shield Final",
-      "home_team": "Arsenal",
-      "away_team": "Manchester City",
+      "competition": "Premier League Round 1",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Newcastle United",
+      "away_team": "Liverpool",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-      "venue": "Principality Stadium",
-      "start": "2026-08-16T19:45:00+05:45",
-      "end": "2026-08-16T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=final-ars-city"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "venue": "St. James' Park",
+      "start": "2026-08-23T21:15:00+05:45",
+      "end": "2026-08-23T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-castle-liver"
+    },
+
+
+
+   {
+      "id": "laliga-atle-villa",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "LaLiga Round 2",
+      "competition_short": "LaLiga",
+      "badge": "laliga",
+      "home_team": "Atletico Madrid",
+      "away_team": "Villarreal",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+      "venue": "Riyadh Air Metropolitano",
+      "start": "2026-08-23T20:45:00+05:45",
+      "end": "2026-08-23T22:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-atle-villa"
+    },
+
+
+
+   {
+      "id": "laliga-elch-barca",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "LaLiga Round 2",
+      "competition_short": "LaLiga",
+      "badge": "laliga",
+      "home_team": "Elche",
+      "away_team": "Barcelona",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "venue": "Estadio Manuel Martínez Valero",
+      "start": "2026-08-24T01:15:00+05:45",
+      "end": "2026-08-24T03:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-elch-barca"
+    },
+
+
+
+   {
+      "id": "serie-fros-juv",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Serie A Round 1",
+      "competition_short": "Serie A",
+      "badge": "serie a",
+      "home_team": "Frosinone",
+      "away_team": "Juventus",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+      "venue": "Stadio Benito Stirpe",
+      "start": "2026-08-23T22:15:00+05:45",
+      "end": "2026-08-24T00:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-fros-juv"
+    },
+
+
+
+   {
+      "id": "ligue-ren-psg",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Ligue 1 Round 1",
+      "competition_short": "Ligue 1",
+      "badge": "ligue 1",
+      "home_team": "Rennes",
+      "away_team": "PSG",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+      "venue": "Roazhon Park",
+      "start": "2026-08-24T00:30:00+05:45",
+      "end": "2026-08-24T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ligue-ren-psg"
     },
 
 
    {
-      "id": "mls-miami-union",
+      "id": "mls-miami-mont",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "MLS Round 1",
+      "competition": "MLS Round 22",
       "competition_short": "MLS Cup",
       "badge": "mls cup",
       "home_team": "Inter Miami CF",
-      "away_team": "Philadelphia Union",
+      "away_team": "CF Montreal",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",
-      "venue": "Subaru Park",
-      "start": "2026-08-20T05:15:00+05:45",
-      "end": "2026-08-20T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-union"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/161195_small.png",
+      "venue": "Nu Stadium",
+      "start": "2026-08-30T05:15:00+05:45",
+      "end": "2026-08-30T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-mont"
     },
 
 
@@ -112,8 +200,8 @@
       "id": "test-lk-in",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "1st Test",
-      "competition_short": "Test 1 of 2",
+      "competition": "2nd Test",
+      "competition_short": "Test 2 of 2",
       "badge": "test",
       "home_team": "Sri Lanka",
       "away_team": "India",
@@ -122,9 +210,9 @@
       "home_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
       "format": "TEST",
-      "venue": "Galle International Stadium",
-      "start": "2026-08-18T10:15:00+05:45",
-      "end": "2026-08-18T18:15:00+05:45",
+      "venue": "SSC cricket ground Colombo",
+      "start": "2026-08-23T10:15:00+05:45",
+      "end": "2026-08-23T18:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-lk-in"
     },
     {
@@ -185,6 +273,28 @@
       "start": "2026-08-10T15:30:00+05:45",
       "end": "2026-08-10T22:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ie-af"
+    },
+
+
+
+   {
+      "id": "t20-np-hha",
+      "sport": "cricket",
+      "hot_match": "yes",
+      "competition": "Top End T20 2026",
+      "competition_short": "Top End T20",
+      "badge": "t20",
+      "home_team": "Nepal A",
+      "away_team": "Hobart Hurricanes Academy",
+      "home_flag": "🏏",
+      "away_flag": "🏏",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/1GD.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/1KO.png",
+      "format": "T20",
+      "venue": "DXC Arena, Darwin",
+      "start": "2026-07-23T15:15:00+05:45",
+      "end": "2026-07-23T19:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-np-hha"
     },
     
     {
