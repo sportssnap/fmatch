@@ -2,132 +2,154 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-liv-nott",
+      "id": "epl-che-bri",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 2",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Liverpool",
-      "away_team": "Nottingham Forest",
+      "home_team": "Chelsea",
+      "away_team": "Brighton & Hove Albion",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-      "venue": "Anfield",
-      "start": "2026-08-29T17:15:00+05:45",
-      "end": "2026-08-29T19:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-liv-nott"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+      "venue": "Stamford Bridge",
+      "start": "2026-08-30T18:45:00+05:45",
+      "end": "2026-08-30T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-che-bri"
     },
 
    
     {
-      "id": "epl-afc-eve",
+      "id": "epl-leed-bren",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 2",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "AFC Bournemouth",
-      "away_team": "Everton",
+      "home_team": "Leeds United",
+      "away_team": "Brentford",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "venue": "Vitality Stadium",
-      "start": "2026-08-29T19:45:00+05:45",
-      "end": "2026-08-29T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-afc-eve"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+      "venue": "Elland Road",
+      "start": "2026-08-30T18:45:00+05:45",
+      "end": "2026-08-30T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-leed-bren"
     },
 
 
 
    {
-      "id": "epl-tot-new",
+      "id": "epl-sund-fulh",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 2",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Tottenham Hotspur",
-      "away_team": "Newcastle United",
+      "home_team": "Sunderland",
+      "away_team": "Fulham",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-      "venue": "Tottenham Hotspur Stadium",
-      "start": "2026-08-29T22:15:00+05:45",
-      "end": "2026-08-30T00:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-tot-new"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+      "venue": "Stadium of Light",
+      "start": "2026-08-30T18:45:00+05:45",
+      "end": "2026-08-30T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-sund-fulh"
     },
 
 
 
    {
-      "id": "laliga-real-esp",
+      "id": "epl-man-town",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 2",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Manchester United",
+      "away_team": "Ipswich Town",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
+      "venue": "Old Trafford",
+      "start": "2026-08-30T21:15:00+05:45",
+      "end": "2026-08-30T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-man-town"
+    },
+
+
+
+   {
+      "id": "laliga-real-mala",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "LaLiga Round 3",
       "competition_short": "LaLiga",
       "badge": "laliga",
-      "home_team": "Real Sociedad",
-      "away_team": "Espanyol",
+      "home_team": "Real Madrid",
+      "away_team": "Málaga",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-      "venue": "Estadio Municipal de Anoeta",
-      "start": "2026-08-29T22:45:00+05:45",
-      "end": "2026-08-29T00:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-real-esp"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9864_small.png",
+      "venue": "Estadio Bernabéu",
+      "start": "2026-08-30T20:45:00+05:45",
+      "end": "2026-08-30T22:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-real-mala"
     },
 
 
 
    {
-      "id": "laliga-sevi-atle",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 3",
-      "competition_short": "LaLiga",
-      "badge": "laliga",
-      "home_team": "Sevilla",
-      "away_team": "Atlético Madrid",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-      "venue": "Estadio Ramón Sánchez Pizjuán",
-      "start": "2026-08-30T01:15:00+05:45",
-      "end": "2026-08-30T03:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-sevi-atle"
-    },
-
-
-
-   {
-      "id": "serie-juv-par",
+      "id": "serie-napo-como",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Serie A Round 2",
       "competition_short": "SerieA",
       "badge": "seriea",
-      "home_team": "Juventus",
-      "away_team": "Parma",
+      "home_team": "Napoli",
+      "away_team": "Como",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10167_small.png",
-      "venue": "Allianz Stadium",
-      "start": "2026-08-30T00:30:00+05:45",
-      "end": "2026-08-30T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-juv-par"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",
+      "venue": "Stadio Diego Armando Maradona",
+      "start": "2026-08-30T22:15:00+05:45",
+      "end": "2026-08-31T00:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-napo-como"
+    },
+
+
+
+   {
+      "id": "serie-cagl-int",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Serie A Round 2",
+      "competition_short": "SerieA",
+      "badge": "seriea",
+      "home_team": "Cagliari",
+      "away_team": "Inter",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "venue": "Unipol Domus",
+      "start": "2026-08-31T00:30:00+05:45",
+      "end": "2026-08-31T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-cagl-int"
     },
 
 
@@ -154,23 +176,23 @@
 
 
    {
-      "id": "mls-miami-mont",
+      "id": "mls-miami-atla",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "MLS Round 22",
+      "competition": "Major League Soccer Round 23",
       "competition_short": "MLS Cup",
-      "badge": "mls cup",
+      "badge": "mlscup",
       "home_team": "Inter Miami CF",
-      "away_team": "CF Montreal",
+      "away_team": "Atlanta United",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/161195_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
       "venue": "Nu Stadium",
-      "start": "2026-08-30T05:15:00+05:45",
-      "end": "2026-08-30T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-mont"
+      "start": "2026-09-06T05:15:00+05:45",
+      "end": "2026-09-06T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-atla"
     },
 
 
@@ -219,19 +241,19 @@
       "id": "t20-zw-sa",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "2nd T20",
+      "competition": "3rd T20",
       "competition_short": "T20",
       "badge": "t20",
       "home_team": "Zimbabwe",
-      "away_team": "South Africa",
+      "away_team": "Namibia",
       "home_flag": "🏏",
       "away_flag": "🏏",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/X.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/P.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/6X.png",
       "format": "T20",
       "venue": "Namibia Cricket Ground, Windhoek",
-      "start": "2026-08-29T17:45:00+05:45",
-      "end": "2026-08-29T21:15:00+05:45",
+      "start": "2026-08-31T17:45:00+05:45",
+      "end": "2026-08-31T21:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-zw-sa"
     },
 
