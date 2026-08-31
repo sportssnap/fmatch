@@ -2,23 +2,23 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-che-bri",
+      "id": "epl-villa-ars",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 2",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Chelsea",
-      "away_team": "Brighton & Hove Albion",
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-      "venue": "Stamford Bridge",
-      "start": "2026-08-30T18:45:00+05:45",
-      "end": "2026-08-30T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-che-bri"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "venue": "Villa Park",
+      "start": "2026-09-01T00:45:00+05:45",
+      "end": "2026-09-01T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-villa-ars"
     },
 
    
@@ -89,23 +89,23 @@
 
 
    {
-      "id": "laliga-real-mala",
+      "id": "laliga-barca-rayo",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "LaLiga Round 3",
       "competition_short": "LaLiga",
       "badge": "laliga",
-      "home_team": "Real Madrid",
-      "away_team": "Málaga",
+      "home_team": "Barcelona",
+      "away_team": "Rayo Vallecano",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9864_small.png",
-      "venue": "Estadio Bernabéu",
-      "start": "2026-08-30T20:45:00+05:45",
-      "end": "2026-08-30T22:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-real-mala"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+      "venue": "Spotify Camp Nou",
+      "start": "2026-09-01T01:15:00+05:45",
+      "end": "2026-09-01T03:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-barca-rayo"
     },
 
 
