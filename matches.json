@@ -326,17 +326,17 @@
       "featured_match": "yes",
       "competition": "ACC Men's Premier Cup",
       "competition_short": "ACC",
-      "badge": "t20",
+      "badge": "odi",
       "home_team": "Malaysia",
       "away_team": "Nepal",
       "home_flag": "🏏",
       "away_flag": "🏏",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/HP.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
-      "format": "T20",
+      "format": "ODI",
       "venue": "YSD-UKM Cricket Oval, Bangi",
       "start": "2026-09-03T07:15:00+05:45",
-      "end": "2026-09-03T11:15:00+05:45",
+      "end": "2026-09-03T12:30:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-mas-np"
     }
   ]
