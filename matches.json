@@ -320,24 +320,24 @@
     },
     
     {
-      "id": "acc-bh-np",
+      "id": "acc-mas-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "ACC Men's Premier Cup",
       "competition_short": "ACC",
-      "badge": "acc",
-      "home_team": "Bahrain",
+      "badge": "t20",
+      "home_team": "Malaysia",
       "away_team": "Nepal",
-      "home_flag": "🇧🇭",
-      "away_flag": "🇳🇵",
-      "home_logo": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HUez63n7xzBx0v__6EfsTA_96x96.png",
+      "home_flag": "🏏",
+      "away_flag": "🏏",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/HP.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
-      "format": "ODI",
-      "venue": "UKM Cricket Oval",
-      "start": "2026-08-31T07:15:00+05:45",
-      "end": "2026-08-31T14:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-bh-np"
+      "format": "T20",
+      "venue": "YSD-UKM Cricket Oval, Bangi",
+      "start": "2026-09-03T07:15:00+05:45",
+      "end": "2026-09-03T11:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-mas-np"
     }
   ]
 }
