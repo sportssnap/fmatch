@@ -2,44 +2,44 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-villa-ars",
+      "id": "epl-eve-man",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Premier League Round 2",
+      "competition": "Premier League Round 3",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Aston Villa",
-      "away_team": "Arsenal",
+      "home_team": "Everton",
+      "away_team": "Manchester United",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "venue": "Villa Park",
-      "start": "2026-09-01T00:45:00+05:45",
-      "end": "2026-09-01T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-villa-ars"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "venue": "Hill Dickinson Stadium",
+      "start": "2026-09-06T18:45:00+05:45",
+      "end": "2026-09-06T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-eve-man"
     },
 
    
     {
-      "id": "epl-leed-bren",
+      "id": "epl-ars-che",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Premier League Round 2",
+      "competition": "Premier League Round 3",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Leeds United",
-      "away_team": "Brentford",
+      "home_team": "Arsenal",
+      "away_team": "Chelsea",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-      "venue": "Elland Road",
-      "start": "2026-08-30T18:45:00+05:45",
-      "end": "2026-08-30T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-leed-bren"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "venue": "Emirates Stadium",
+      "start": "2026-09-06T21:15:00+05:45",
+      "end": "2026-09-06T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-ars-che"
     },
 
 
@@ -89,23 +89,23 @@
 
 
    {
-      "id": "laliga-barca-rayo",
+      "id": "laliga-vale-barca",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "LaLiga Round 3",
+      "competition": "LaLiga Round 4",
       "competition_short": "LaLiga",
       "badge": "laliga",
-      "home_team": "Barcelona",
-      "away_team": "Rayo Vallecano",
+      "home_team": "Valencia",
+      "away_team": "Barcelona",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-      "venue": "Spotify Camp Nou",
-      "start": "2026-09-01T01:15:00+05:45",
-      "end": "2026-09-01T03:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-barca-rayo"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "venue": "Estadio de Mestalla",
+      "start": "2026-09-06T20:00:00+05:45",
+      "end": "2026-09-06T22:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-vale-barca"
     },
 
 
