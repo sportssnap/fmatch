@@ -197,6 +197,28 @@
     },
 
 
+
+   {
+      "id": "saudi-nassr-abha",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Saudi Arabian League Round 6",
+      "competition_short": "RSL",
+      "badge": "rsl",
+      "home_team": "Al Nassr FC",
+      "away_team": "Abha",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/150414_small.png",
+      "venue": "Al-Awwal Park",
+      "start": "2026-09-09T23:45:00+05:45",
+      "end": "2026-09-10T01:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=saudi-nassr-abha"
+    },
+
+
    {
       "id": "mls-miami-fire",
       "sport": "football",
