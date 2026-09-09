@@ -2,66 +2,110 @@
  "updated": "2026-06-11T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-eve-man",
+      "id": "ucl-barca-feye",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Premier League Round 3",
-      "competition_short": "EPL",
-      "badge": "epl",
-      "home_team": "Everton",
-      "away_team": "Manchester United",
+      "competition": "Champions League Round 1",
+      "competition_short": "UCL",
+      "badge": "ucl",
+      "home_team": "Barcelona",
+      "away_team": "Feyenoord",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "venue": "Hill Dickinson Stadium",
-      "start": "2026-09-06T18:45:00+05:45",
-      "end": "2026-09-06T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-eve-man"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
+      "venue": "Spotify Camp Nou",
+      "start": "2026-09-09T22:30:00+05:45",
+      "end": "2026-09-10T00:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-barca-feye"
     },
 
    
     {
-      "id": "epl-ars-che",
+      "id": "ucl-liv-atl",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Premier League Round 3",
-      "competition_short": "EPL",
-      "badge": "epl",
-      "home_team": "Arsenal",
-      "away_team": "Chelsea",
+      "competition": "Champions League Round 1",
+      "competition_short": "UCL",
+      "badge": "ucl",
+      "home_team": "Liverpool",
+      "away_team": "Atlético Madrid",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "venue": "Emirates Stadium",
-      "start": "2026-09-06T21:15:00+05:45",
-      "end": "2026-09-06T23:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-ars-che"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+      "venue": "Anfield",
+      "start": "2026-09-10T00:45:00+05:45",
+      "end": "2026-09-10T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-liv-atl"
     },
 
 
 
    {
-      "id": "epl-sund-fulh",
+      "id": "ucl-psg-slov",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Premier League Round 2",
-      "competition_short": "EPL",
-      "badge": "epl",
-      "home_team": "Sunderland",
-      "away_team": "Fulham",
+      "competition": "Champions League Round 1",
+      "competition_short": "UCL",
+      "badge": "ucl",
+      "home_team": "Paris Saint-Germain",
+      "away_team": "Slovan Bratislava",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-      "venue": "Stadium of Light",
-      "start": "2026-08-30T18:45:00+05:45",
-      "end": "2026-08-30T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-sund-fulh"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6019_small.png",
+      "venue": "Parc des Princes",
+      "start": "2026-09-10T00:45:00+05:45",
+      "end": "2026-09-10T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-psg-slov"
+    },
+
+
+
+   {
+      "id": "ucl-napo-ars",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Champions League Round 1",
+      "competition_short": "UCL",
+      "badge": "ucl",
+      "home_team": "Napoli",
+      "away_team": "Arsenal",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "venue": "Stadio Diego Armando Maradona",
+      "start": "2026-09-10T00:45:00+05:45",
+      "end": "2026-09-10T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-napo-ars"
+    },
+
+
+
+   {
+      "id": "ucl-che-leed",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "EFL Cup Round 3",
+      "competition_short": "EFL",
+      "badge": "efl",
+      "home_team": "Chelsea",
+      "away_team": "Leeds United",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+      "venue": "Stamford Bridge",
+      "start": "2026-09-10T00:45:00+05:45",
+      "end": "2026-09-10T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ucl-che-leed"
     },
 
 
@@ -133,28 +177,6 @@
 
 
    {
-      "id": "serie-cagl-int",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Serie A Round 2",
-      "competition_short": "SerieA",
-      "badge": "seriea",
-      "home_team": "Cagliari",
-      "away_team": "Inter",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-      "venue": "Unipol Domus",
-      "start": "2026-08-31T00:30:00+05:45",
-      "end": "2026-08-31T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-cagl-int"
-    },
-
-
-
-   {
       "id": "bundesliga-dort-ham",
       "sport": "football",
       "hot_match": "no",
@@ -176,23 +198,23 @@
 
 
    {
-      "id": "mls-miami-atla",
+      "id": "mls-miami-fire",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Major League Soccer Round 23",
+      "competition": "Major League Soccer Round 24",
       "competition_short": "MLS Cup",
-      "badge": "mlscup",
+      "badge": "mls",
       "home_team": "Inter Miami CF",
-      "away_team": "Atlanta United",
+      "away_team": "Chicago Fire FC",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
-      "venue": "Nu Stadium",
-      "start": "2026-09-06T05:15:00+05:45",
-      "end": "2026-09-06T07:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-atla"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6397_small.png",
+      "venue": "Soldier Field",
+      "start": "2026-09-10T06:15:00+05:45",
+      "end": "2026-09-10T08:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-fire"
     },
 
 
@@ -278,23 +300,23 @@
     },
 
    {
-      "id": "odi-ie-af",
+      "id": "odi-nami-afr",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "3rd ODI",
-      "competition_short": "ODI 3 of 5",
+      "competition": "1st ODI",
+      "competition_short": "ODI 1 of 3",
       "badge": "odi",
-      "home_team": "Ireland",
-      "away_team": "Afghanistan",
-      "home_flag": "🇮🇪",
-      "away_flag": "🇦🇫",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/Z.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/Y.png",
+      "home_team": "Namibia",
+      "away_team": "South Africa",
+      "home_flag": "🏏",
+      "away_flag": "🏏",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/6X.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/P.png",
       "format": "ODI",
-      "venue": "Stormont Cricket Ground",
-      "start": "2026-08-10T15:30:00+05:45",
-      "end": "2026-08-10T22:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ie-af"
+      "venue": "Namibia Cricket Ground, Windhoek",
+      "start": "2026-09-09T13:15:00+05:45",
+      "end": "2026-09-09T20:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-nami-afr"
     },
 
 
