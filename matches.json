@@ -322,23 +322,23 @@
 
 
    {
-      "id": "t20-np-hha",
+      "id": "test-eng-pk",
       "sport": "cricket",
-      "hot_match": "yes",
-      "competition": "Top End T20 2026",
-      "competition_short": "Top End T20",
-      "badge": "t20",
-      "home_team": "Nepal A",
-      "away_team": "Victoria",
+      "hot_match": "no",
+      "competition": "3rd Test",
+      "competition_short": "TEST 3 of 3",
+      "badge": "test",
+      "home_team": "England",
+      "away_team": "Pakistan",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/1GD.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/3J.png",
-      "format": "T20",
-      "venue": "DXC Arena, Darwin",
-      "start": "2026-08-29T13:15:00+05:45",
-      "end": "2026-08-29T17:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-np-hha"
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/S.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/U.png",
+      "format": "TEST",
+      "venue": "Edgbaston Cricket Ground, Birmingham",
+      "start": "2026-09-09T15:45:00+05:45",
+      "end": "2026-09-09T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-eng-pk"
     },
     
     {
