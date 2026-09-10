@@ -364,24 +364,24 @@
     },
     
     {
-      "id": "acc-mas-np",
+      "id": "acc-oma-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "ACC Men's Premier Cup",
       "competition_short": "ACC",
       "badge": "odi",
-      "home_team": "Malaysia",
+      "home_team": "Oman",
       "away_team": "Nepal",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/HP.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/15.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
       "format": "ODI",
-      "venue": "YSD-UKM Cricket Oval, Bangi",
-      "start": "2026-09-03T07:15:00+05:45",
-      "end": "2026-09-03T12:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-mas-np"
+      "venue": "Bayuemas Oval, Kuala Lumpur",
+      "start": "2026-09-10T07:15:00+05:45",
+      "end": "2026-09-10T12:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=acc-oma-np"
     }
   ]
 }
