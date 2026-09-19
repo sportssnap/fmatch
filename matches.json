@@ -2,175 +2,197 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-bre-che",
+      "id": "epl-tot-villa",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 5",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Brentford",
-      "away_team": "Chelsea",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Aston Villa",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "venue": "Gtech Community Stadium",
-      "start": "2026-09-19T00:45:00+05:45",
-      "end": "2026-09-19T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-bre-che"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+      "venue": "Tottenham Hotspur Stadium",
+      "start": "2026-09-19T17:15:00+05:45",
+      "end": "2026-09-19T19:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?epl-tot-villa"
     },
 
    
     {
-      "id": "bundesliga-bay-uni",
+      "id": "epl-bri-ars",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 5",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Arsenal",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+      "venue": "Tottenham Hotspur Stadium",
+      "start": "2026-09-19T19:45:00+05:45",
+      "end": "2026-09-19T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?epl-bri-ars"
+    },
+
+
+
+   {
+      "id": "epl-eve-tow",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 5",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Everton",
+      "away_team": "Ipswich Town",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
+      "venue": "Hill Dickinson Stadium",
+      "start": "2026-09-19T19:45:00+05:45",
+      "end": "2026-09-19T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?epl-eve-tow"
+    },
+
+
+
+   {
+      "id": "laliga-ath-dep",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "LaLiga Round 7",
+      "competition_short": "LALIGA",
+      "badge": "laliga",
+      "home_team": "Athletic Club",
+      "away_team": "Deportivo Alavés",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+      "venue": "Estadio de San Mamés",
+      "start": "2026-09-19T20:00:00+05:45",
+      "end": "2026-09-19T22:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-ath-dep"
+    },
+
+
+
+   {
+      "id": "epl-new-hull",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 5",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Newcastle United",
+      "away_team": "Hull City",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_small.png",
+      "venue": "St. James' Park",
+      "start": "2026-09-19T19:45:00+05:45",
+      "end": "2026-09-19T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?epl-new-hull"
+    },
+
+
+
+   {
+      "id": "epl-nott-cov",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 5",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Nottingham Forest",
+      "away_team": "Coventry City",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
+      "venue": "The City Ground",
+      "start": "2026-09-19T22:15:00+05:45",
+      "end": "2026-09-20T00:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?epl-nott-cov"
+    },
+
+
+
+   {
+      "id": "laliga-sev-barca",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "LaLiga Round 7",
+      "competition_short": "LALIGA",
+      "badge": "laliga",
+      "home_team": "Sevilla",
+      "away_team": "Barcelona",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+      "venue": "Estadio Ramón Sánchez Pizjuán",
+      "start": "2026-09-20T00:45:00+05:45",
+      "end": "2026-09-20T02:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-sev-barca"
+    },
+
+
+   {
+      "id": "serie-roma-inter",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Serie A Round 5",
+      "competition_short": "SERIE A",
+      "badge": "seriea",
+      "home_team": "Roma",
+      "away_team": "Inter",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+      "venue": "Stadio Olimpico",
+      "start": "2026-09-19T21:45:00+05:45",
+      "end": "2026-09-19T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=serie-roma-inter"
+    },
+
+
+
+   {
+      "id": "bundesliga-vfb-dort",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Bundesliga Round 4",
       "competition_short": "Bundesliga",
       "badge": "bundesliga",
-      "home_team": "Bayern München",
-      "away_team": "Union Berlin",
+      "home_team": "VfB Stuttgart",
+      "away_team": "Borussia Dortmund",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-      "venue": "Allianz Arena",
-      "start": "2026-09-19T00:15:00+05:45",
-      "end": "2026-09-19T02:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=bundesliga-bay-uni"
-    },
-
-
-
-   {
-      "id": "laliga-barca-rac",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 6",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Barcelona",
-      "away_team": "Racing Santander",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8696_small.png",
-      "venue": "Spotify Camp Nou",
-      "start": "2026-09-17T01:15:00+05:45",
-      "end": "2026-09-17T03:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-barca-rac"
-    },
-
-
-
-   {
-      "id": "laliga-leva-ath",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 6",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Levante",
-      "away_team": "Athletic Club",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8581_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "venue": "Estadio Ciudad de Valencia",
-      "start": "2026-09-17T01:15:00+05:45",
-      "end": "2026-09-17T03:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-leva-ath"
-    },
-
-
-
-   {
-      "id": "efl-eve-wol",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "EFL Cup Round 3",
-      "competition_short": "EFL Cup",
-      "badge": "efl",
-      "home_team": "Everton",
-      "away_team": "Wolverhampton Wanderers",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-      "venue": "Hill Dickinson Stadium",
-      "start": "2026-09-17T00:30:00+05:45",
-      "end": "2026-09-17T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=efl-eve-wol"
-    },
-
-
-
-   {
-      "id": "efl-fle-she",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "EFL Cup Round 3",
-      "competition_short": "EFL Cup",
-      "badge": "efl",
-      "home_team": "Fleetwood Town",
-      "away_team": "Sheffield United",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/45723_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-      "venue": "Highbury Stadium",
-      "start": "2026-09-17T00:30:00+05:45",
-      "end": "2026-09-17T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=efl-fle-she"
-    },
-
-
-
-   {
-      "id": "efl-city-villa",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "EFL Cup Round 3",
-      "competition_short": "EFL Cup",
-      "badge": "efl",
-      "home_team": "Coventry City",
-      "away_team": "Aston Villa",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "venue": "Coventry Building Society Arena",
-      "start": "2026-09-17T00:45:00+05:45",
-      "end": "2026-09-17T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=efl-city-villa"
-    },
-
-
-   {
-      "id": "efl-man-bri",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "EFL Cup Round 3",
-      "competition_short": "EFL Cup",
-      "badge": "efl",
-      "home_team": "Manchester United",
-      "away_team": "Brighton & Hove Albion",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-      "venue": "Old Trafford",
-      "start": "2026-09-17T00:45:00+05:45",
-      "end": "2026-09-17T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=efl-man-bri"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+      "venue": "MHPArena",
+      "start": "2026-09-19T22:15:00+05:45",
+      "end": "2026-09-20T00:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=bundesliga-vfb-dort"
     },
 
 
@@ -197,23 +219,23 @@
 
 
    {
-      "id": "mls-miami-azul",
+      "id": "mls-miami-san",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Campeones Cup Round 1",
-      "competition_short": "CAMPEONES CUP",
-      "badge": "campeones cup",
+      "competition": "Major League Soccer Round 26",
+      "competition_short": "MLS",
+      "badge": "mls",
       "home_team": "Inter Miami CF",
-      "away_team": "Cruz Azul",
+      "away_team": "San Diego FC",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1701119_small.png",
       "venue": "Nu Stadium",
-      "start": "2026-09-17T05:45:00+05:45",
-      "end": "2026-09-17T07:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-azul"
+      "start": "2026-09-21T04:45:00+05:45",
+      "end": "2026-09-21T06:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-san"
     },
 
 
