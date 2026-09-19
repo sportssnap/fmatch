@@ -18,7 +18,7 @@
       "venue": "Tottenham Hotspur Stadium",
       "start": "2026-09-19T17:15:00+05:45",
       "end": "2026-09-19T19:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?epl-tot-villa"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-tot-villa"
     },
 
    
@@ -39,7 +39,7 @@
       "venue": "Tottenham Hotspur Stadium",
       "start": "2026-09-19T19:45:00+05:45",
       "end": "2026-09-19T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?epl-bri-ars"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-bri-ars"
     },
 
 
@@ -61,7 +61,7 @@
       "venue": "Hill Dickinson Stadium",
       "start": "2026-09-19T19:45:00+05:45",
       "end": "2026-09-19T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?epl-eve-tow"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-eve-tow"
     },
 
 
@@ -105,7 +105,7 @@
       "venue": "St. James' Park",
       "start": "2026-09-19T19:45:00+05:45",
       "end": "2026-09-19T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?epl-new-hull"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-new-hull"
     },
 
 
@@ -127,7 +127,7 @@
       "venue": "The City Ground",
       "start": "2026-09-19T22:15:00+05:45",
       "end": "2026-09-20T00:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?epl-nott-cov"
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-nott-cov"
     },
 
 
