@@ -2,66 +2,88 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-tot-villa",
+      "id": "epl-afc-liv",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 5",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Tottenham Hotspur",
-      "away_team": "Aston Villa",
+      "home_team": "AFC Bournemouth",
+      "away_team": "Liverpool",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "venue": "Tottenham Hotspur Stadium",
-      "start": "2026-09-19T17:15:00+05:45",
-      "end": "2026-09-19T19:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-tot-villa"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "venue": "Vitality Stadium",
+      "start": "2026-09-20T18:45:00+05:45",
+      "end": "2026-09-20T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-afc-liv"
     },
 
    
     {
-      "id": "epl-bri-ars",
+      "id": "epl-leed-cry",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 5",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Brighton & Hove Albion",
-      "away_team": "Arsenal",
+      "home_team": "Leeds United",
+      "away_team": "Crystal Palace",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "venue": "Tottenham Hotspur Stadium",
-      "start": "2026-09-19T19:45:00+05:45",
-      "end": "2026-09-19T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-bri-ars"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+      "venue": "Elland Road",
+      "start": "2026-09-20T18:45:00+05:45",
+      "end": "2026-09-20T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-leed-cry"
     },
 
 
 
    {
-      "id": "epl-eve-tow",
+      "id": "epl-city-sund",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 5",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Everton",
-      "away_team": "Ipswich Town",
+      "home_team": "Manchester City",
+      "away_team": "Sunderland",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
-      "venue": "Hill Dickinson Stadium",
-      "start": "2026-09-19T19:45:00+05:45",
-      "end": "2026-09-19T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-eve-tow"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
+      "venue": "Etihad Stadium",
+      "start": "2026-09-20T18:45:00+05:45",
+      "end": "2026-09-20T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-city-sund"
+    },
+
+
+
+   {
+      "id": "epl-ful-man",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Premier League Round 5",
+      "competition_short": "EPL",
+      "badge": "epl",
+      "home_team": "Fulham",
+      "away_team": "Manchester United",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "venue": "Craven Cottage",
+      "start": "2026-09-20T21:15:00+05:45",
+      "end": "2026-09-20T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-ful-man"
     },
 
 
