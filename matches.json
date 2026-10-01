@@ -236,24 +236,24 @@
     },
 
    {
-      "id": "asian-ban-mal",
+      "id": "asian-sri-ind",
       "sport": "cricket",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Asian Men's T20 2026",
       "competition_short": "ASIAN MEN'S T20",
       "badge": "t20",
-      "home_team": "Bangladesh",
-      "away_team": "Malaysia",
+      "home_team": "Sri Lanka",
+      "away_team": "India",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/W.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/HP.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
       "format": "T20",
       "venue": "Korogi Sports Park, Nisshin",
-      "start": "2026-09-29T10:15:00+05:45",
-      "end": "2026-09-29T14:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=asian-ban-mal"
+      "start": "2026-10-01T10:15:00+05:45",
+      "end": "2026-10-01T14:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=asian-sri-ind"
     },
     
     {
