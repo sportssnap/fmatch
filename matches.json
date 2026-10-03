@@ -2,72 +2,7 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "friendlies-arg-bol",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Argentina",
-      "away_team": "Bolivia",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5797_small.png",
-      "venue": "Estadio Mario Alberto Kempes",
-      "start": "2026-10-01T05:45:00+05:45",
-      "end": "2026-10-01T07:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-arg-bol"
-    },
-
-   
-    {
-      "id": "friendlies-jpn-ecu",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Japan",
-      "away_team": "Ecuador",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
-      "venue": "Nissan Stadium",
-      "start": "2026-10-01T15:55:00+05:45",
-      "end": "2026-10-01T17:55:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-jpn-ecu"
-    },
-
-
-
-   {
-      "id": "uefa-nor-por",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 4 Round 2",
-      "competition_short": "UEFA",
-      "badge": "uefa",
-      "home_team": "Norway",
-      "away_team": "Portugal",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-      "venue": "Ullevaal Stadion",
-      "start": "2026-09-28T00:30:00+05:45",
-      "end": "2026-09-28T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-nor-por"
-    },
-
-
-
-   {
-      "id": "friendlies-ind-pana",
+      "id": "friendlies-ind-bra",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
@@ -75,15 +10,80 @@
       "competition_short": "Friendlies",
       "badge": "friendlies",
       "home_team": "India",
-      "away_team": "Panama",
+      "away_team": "Brazil",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",
-      "venue": "Sree Kanteerava Stadium",
-      "start": "2026-09-25T19:45:00+05:45",
-      "end": "2026-09-25T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-ind-pana"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+      "venue": "Vivekananda Yuba Bharati Krirangan Stadium",
+      "start": "2026-10-03T19:45:00+05:45",
+      "end": "2026-10-03T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-ind-bra"
+    },
+
+   
+    {
+      "id": "friendlies-arg-bur",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Friendlies",
+      "competition_short": "Friendlies",
+      "badge": "friendlies",
+      "home_team": "Argentina",
+      "away_team": "Burkina Faso",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6323_small.png",
+      "venue": "Estadio Monumental",
+      "start": "2026-10-04T05:45:00+05:45",
+      "end": "2026-10-04T07:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-arg-bur"
+    },
+
+
+
+   {
+      "id": "uefa-cro-eng",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "UEFA Nations League A Grp. 3 Round 3",
+      "competition_short": "UEFA",
+      "badge": "uefa",
+      "home_team": "Croatia",
+      "away_team": "England",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+      "venue": "Stadion HNK Rijeka",
+      "start": "2026-10-03T21:45:00+05:45",
+      "end": "2026-10-03T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-cro-eng"
+    },
+
+
+
+   {
+      "id": "uefa-spn-cze",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "UEFA Nations League A Grp. 3 Round 3",
+      "competition_short": "UEFA",
+      "badge": "uefa",
+      "home_team": "Spain",
+      "away_team": "Czechia",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+      "venue": "Estadio Municipal Carlos Tartiere",
+      "start": "2026-10-04T00:30:00+05:45",
+      "end": "2026-10-04T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-spn-cze"
     },
 
 
@@ -110,23 +110,23 @@
 
 
    {
-      "id": "mls-miami-san",
+      "id": "mls-miami-dc",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Major League Soccer Round 27",
+      "competition": "Major League Soccer Round 28",
       "competition_short": "MLS",
       "badge": "mls",
       "home_team": "Inter Miami CF",
-      "away_team": "Columbus Crew",
+      "away_team": "DC United",
       "home_flag": "⚽",
       "away_flag": "⚽",
       "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png",
-      "venue": "ScottsMiracle-Gro Field",
-      "start": "2026-09-28T04:45:00+05:45",
-      "end": "2026-09-28T06:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-san"
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6602_small.png",
+      "venue": "Nu Stadium",
+      "start": "2026-10-11T05:15:00+05:45",
+      "end": "2026-10-11T07:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-dc"
     },
 
 
@@ -156,8 +156,8 @@
       "id": "odi-ind-wi",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "2nd ODI",
-      "competition_short": "ODI 2 of 3",
+      "competition": "3rd ODI",
+      "competition_short": "ODI 3 of 3",
       "badge": "odi",
       "home_team": "India",
       "away_team": "West Indies",
@@ -167,8 +167,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
       "format": "ODI",
       "venue": "ACA Stadium",
-      "start": "2026-09-30T14:15:00+05:45",
-      "end": "2026-09-30T21:15:00+05:45",
+      "start": "2026-10-03T14:15:00+05:45",
+      "end": "2026-10-03T21:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ind-wi"
     },
     {
