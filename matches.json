@@ -2,66 +2,66 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "friendlies-ind-bra",
+      "id": "uefa-gre-ger",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "India",
-      "away_team": "Brazil",
+      "competition": "UEFA Nations League A Grp. 2 Round 4",
+      "competition_short": "UEFA",
+      "badge": "uefa",
+      "home_team": "Greece",
+      "away_team": "Germany",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
-      "venue": "Vivekananda Yuba Bharati Krirangan Stadium",
-      "start": "2026-10-03T19:45:00+05:45",
-      "end": "2026-10-03T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-ind-bra"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+      "venue": "Stadio Toumbas",
+      "start": "2026-10-05T00:30:00+05:45",
+      "end": "2026-10-05T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-gre-ger"
     },
 
    
     {
-      "id": "friendlies-arg-bur",
+      "id": "uefa-neth-ser",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Friendlies",
-      "competition_short": "Friendlies",
-      "badge": "friendlies",
-      "home_team": "Argentina",
-      "away_team": "Burkina Faso",
+      "competition": "UEFA Nations League A Grp. 2 Round 4",
+      "competition_short": "UEFA",
+      "badge": "uefa",
+      "home_team": "Netherlands",
+      "away_team": "Serbia",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6323_small.png",
-      "venue": "Estadio Monumental",
-      "start": "2026-10-04T05:45:00+05:45",
-      "end": "2026-10-04T07:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-arg-bur"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+      "venue": "Philips Stadion",
+      "start": "2026-10-05T00:30:00+05:45",
+      "end": "2026-10-05T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-neth-ser"
     },
 
 
 
    {
-      "id": "uefa-cro-eng",
+      "id": "uefa-por-nor",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 3 Round 3",
+      "competition": "UEFA Nations League A Grp. 2 Round 4",
       "competition_short": "UEFA",
       "badge": "uefa",
-      "home_team": "Croatia",
-      "away_team": "England",
+      "home_team": "Portugal",
+      "away_team": "Norway",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
-      "venue": "Stadion HNK Rijeka",
-      "start": "2026-10-03T21:45:00+05:45",
-      "end": "2026-10-03T23:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-cro-eng"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
+      "venue": "Estádio Do Dragão",
+      "start": "2026-10-05T00:30:00+05:45",
+      "end": "2026-10-05T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-por-nor"
     },
 
 
@@ -153,23 +153,23 @@
     
     
     {
-      "id": "odi-ind-wi",
+      "id": "t20-ind-wi",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "3rd ODI",
-      "competition_short": "ODI 3 of 3",
-      "badge": "odi",
+      "competition": "1st T20",
+      "competition_short": "T20 1 of 3",
+      "badge": "t20",
       "home_team": "India",
       "away_team": "West Indies",
       "home_flag": "🏏",
       "away_flag": "🏏",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
-      "format": "ODI",
-      "venue": "ACA Stadium",
-      "start": "2026-10-03T14:15:00+05:45",
-      "end": "2026-10-03T21:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-ind-wi"
+      "format": "T20",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+      "start": "2026-10-06T19:15:00+05:45",
+      "end": "2026-10-06T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-ind-wi"
     },
     {
       "id": "odi-zw-aus",
@@ -194,23 +194,23 @@
    
 
    {
-      "id": "odi-aus-afr",
+      "id": "test-aus-afr",
       "sport": "cricket",
       "hot_match": "no",
       "competition": "Australia tour of South Africa 2026",
-      "competition_short": "ODI 3 of 3",
-      "badge": "odi",
+      "competition_short": "TEST 1 of 3",
+      "badge": "test",
       "home_team": "Australia",
       "away_team": "South Africa",
       "home_flag": "🏏",
       "away_flag": "🏏",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/Q.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/P.png",
-      "format": "ODI",
-      "venue": "The Wanderers Stadium, Johannesburg",
-      "start": "2026-09-30T17:15:00+05:45",
-      "end": "2026-09-31T00:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-aus-afr"
+      "format": "TEST",
+      "venue": "Kingsmead, Durban",
+      "start": "2026-10-09T13:15:00+05:45",
+      "end": "2026-10-09T20:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-aus-afr"
     },
 
 
@@ -257,24 +257,24 @@
     },
     
     {
-      "id": "asian-sl-np",
+      "id": "cwc-can-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
-      "competition": "Asian Men's T20 2026",
-      "competition_short": "ASIAN MEN'S T20",
-      "badge": "t20",
-      "home_team": "Sri Lanka",
+      "competition": "CWC League-2 2023-27",
+      "competition_short": "CWC League-2",
+      "badge": "odi",
+      "home_team": "Canada",
       "away_team": "Nepal",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/70.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
-      "format": "T20",
-      "venue": "Korogi Sports Park, Nisshin",
-      "start": "2026-09-29T05:45:00+05:45",
-      "end": "2026-09-29T09:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=asian-sl-np"
+      "format": "ODI",
+      "venue": "Al Amerat Cricket Ground",
+      "start": "2026-10-11T11:45:00+05:45",
+      "end": "2026-10-11T17:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-can-np"
     }
   ]
 }
