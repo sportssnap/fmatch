@@ -2,88 +2,110 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "uefa-fra-bel",
+      "id": "uefa-cro-spn",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 1 Round 4",
+      "competition": "UEFA Nations League A Grp. 3 Round 4",
       "competition_short": "UEFA",
       "badge": "uefa",
-      "home_team": "France",
-      "away_team": "Belgium",
+      "home_team": "Croatia",
+      "away_team": "Spain",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
-      "venue": "Stade de France",
-      "start": "2026-10-06T00:30:00+05:45",
-      "end": "2026-10-06T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-fra-bel"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+      "venue": "Stadion Poljud",
+      "start": "2026-10-07T00:30:00+05:45",
+      "end": "2026-10-07T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-cro-spn"
     },
 
    
     {
-      "id": "uefa-ita-tur",
+      "id": "uefa-eng-cze",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 1 Round 4",
+      "competition": "UEFA Nations League A Grp. 3 Round 4",
       "competition_short": "UEFA",
       "badge": "uefa",
-      "home_team": "Italy",
-      "away_team": "Turkiye",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
-      "venue": "Stadio Renato Dall'Ara",
-      "start": "2026-10-06T00:30:00+05:45",
-      "end": "2026-10-06T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-ita-tur"
-    },
-
-
-
-   {
-      "id": "uefa-por-nor",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 2 Round 4",
-      "competition_short": "UEFA",
-      "badge": "uefa",
-      "home_team": "Portugal",
-      "away_team": "Norway",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
-      "venue": "Estádio Do Dragão",
-      "start": "2026-10-05T00:30:00+05:45",
-      "end": "2026-10-05T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-por-nor"
-    },
-
-
-
-   {
-      "id": "uefa-spn-cze",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "UEFA Nations League A Grp. 3 Round 3",
-      "competition_short": "UEFA",
-      "badge": "uefa",
-      "home_team": "Spain",
+      "home_team": "England",
       "away_team": "Czechia",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
-      "venue": "Estadio Municipal Carlos Tartiere",
-      "start": "2026-10-04T00:30:00+05:45",
-      "end": "2026-10-04T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-spn-cze"
+      "venue": "Wembley Stadium",
+      "start": "2026-10-07T00:30:00+05:45",
+      "end": "2026-10-07T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=uefa-eng-cze"
+    },
+
+
+
+   {
+      "id": "friendlies-ind-uru",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Friendlies",
+      "competition_short": "friendlies",
+      "badge": "friendlies",
+      "home_team": "India",
+      "away_team": "Uruguay",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+      "venue": "Vivekananda Yuba Bharati Krirangan Stadium",
+      "start": "2026-10-06T19:45:00+05:45",
+      "end": "2026-10-06T21:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-ind-uru"
+    },
+
+
+
+   {
+      "id": "friendlies-arg-ben",
+      "sport": "football",
+      "hot_match": "yes",
+      "featured_match": "yes",
+      "competition": "Friendlies",
+      "competition_short": "friendlies",
+      "badge": "friendlies",
+      "home_team": "Argentina",
+      "away_team": "Benin",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5883_small.png",
+      "venue": "Estadio Monumental",
+      "start": "2026-10-07T04:45:00+05:45",
+      "end": "2026-10-07T06:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-arg-ben"
+    },
+
+
+
+   {
+      "id": "friendlies-col-pru",
+      "sport": "football",
+      "hot_match": "no",
+      "featured_match": "no",
+      "competition": "Friendlies",
+      "competition_short": "friendlies",
+      "badge": "friendlies",
+      "home_team": "Colombia",
+      "away_team": "Peru",
+      "home_flag": "⚽",
+      "away_flag": "⚽",
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
+      "venue": "Nu Stadium",
+      "start": "2026-10-07T05:30:00+05:45",
+      "end": "2026-10-07T07:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=friendlies-col-pru"
     },
 
 
