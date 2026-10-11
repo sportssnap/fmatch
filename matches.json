@@ -321,8 +321,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
       "format": "T20",
       "venue": "JSCA International Cricket Stadium Complex",
-      "start": "2026-10-09T19:15:00+05:45",
-      "end": "2026-10-09T23:15:00+05:45",
+      "start": "2026-10-11T19:15:00+05:45",
+      "end": "2026-10-11T23:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-ind-wi"
     },
     {
@@ -362,8 +362,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/P.png",
       "format": "TEST",
       "venue": "Kingsmead, Durban",
-      "start": "2026-10-09T13:15:00+05:45",
-      "end": "2026-10-09T20:15:00+05:45",
+      "start": "2026-10-11T13:15:00+05:45",
+      "end": "2026-10-11T20:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-aus-afr"
     },
 
@@ -384,8 +384,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "format": "T20",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "start": "2026-10-09T18:45:00+05:45",
-      "end": "2026-10-09T22:45:00+05:45",
+      "start": "2026-10-11T18:45:00+05:45",
+      "end": "2026-10-11T22:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-pak-sri"
     },
 
@@ -405,8 +405,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/W.png",
       "format": "ODI",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "start": "2026-10-09T11:45:00+05:45",
-      "end": "2026-10-09T17:45:00+05:45",
+      "start": "2026-10-11T11:45:00+05:45",
+      "end": "2026-10-11T17:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-afg-ban"
     },
     
