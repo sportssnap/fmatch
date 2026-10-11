@@ -2,244 +2,133 @@
  "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
-      "id": "epl-ars-lee",
+      "id": "epl-cry-nott",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 6",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Arsenal",
-      "away_team": "Leeds United",
+      "home_team": "Crystal Palace",
+      "away_team": "Nottingham Forest",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-      "venue": "Emirates Stadium",
-      "start": "2026-10-10T17:15:00+05:45",
-      "end": "2026-10-10T19:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-ars-lee"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+      "venue": "Selhurst Park",
+      "start": "2026-10-11T18:45:00+05:45",
+      "end": "2026-10-11T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-cry-nott"
     },
 
    
     {
-      "id": "epl-vill-bre",
+      "id": "epl-hull-eve",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 6",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Aston Villa",
-      "away_team": "Brentford",
+      "home_team": "Hull City",
+      "away_team": "Everton",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-      "venue": "Villa Park",
-      "start": "2026-10-10T19:45:00+05:45",
-      "end": "2026-10-10T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-vill-bre"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+      "venue": "MKM Stadium",
+      "start": "2026-10-11T18:45:00+05:45",
+      "end": "2026-10-11T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-hull-eve"
     },
 
 
 
    {
-      "id": "epl-che-afc",
+      "id": "epl-liv-city",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Premier League Round 6",
       "competition_short": "EPL",
       "badge": "epl",
-      "home_team": "Chelsea",
-      "away_team": "AFC Bournemouth",
+      "home_team": "Liverpool",
+      "away_team": "Manchester City",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-      "venue": "Stamford Bridge",
-      "start": "2026-10-10T19:45:00+05:45",
-      "end": "2026-10-10T21:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-che-afc"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+      "venue": "Anfield",
+      "start": "2026-10-11T21:15:00+05:45",
+      "end": "2026-10-11T23:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-liv-city"
     },
 
 
 
    {
-      "id": "epl-man-tott",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "Premier League Round 6",
-      "competition_short": "EPL",
-      "badge": "epl",
-      "home_team": "Manchester United",
-      "away_team": "Tottenham Hotspur",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-      "venue": "Old Trafford",
-      "start": "2026-10-10T22:15:00+05:45",
-      "end": "2026-10-11T00:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-man-tott"
-    },
-
-
-
-   {
-      "id": "laliga-rayo-ath",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 8",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Rayo Vallecano",
-      "away_team": "Athletic Club",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-      "venue": "Estadio de Vallecas",
-      "start": "2026-10-10T17:45:00+05:45",
-      "end": "2026-10-10T19:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-rayo-ath"
-    },
-
-
-
-   {
-      "id": "laliga-depo-atle",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 8",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Deportivo Alavés",
-      "away_team": "Atlético Madrid",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-      "venue": "Estadio de Mendizorroza",
-      "start": "2026-10-10T20:00:00+05:45",
-      "end": "2026-10-10T22:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-depo-atle"
-    },
-
-
-
-   {
-      "id": "laliga-barca-geta",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 8",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Barcelona",
-      "away_team": "Getafe",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-      "venue": "Spotify Camp Nou",
-      "start": "2026-10-10T22:15:00+05:45",
-      "end": "2026-10-11T00:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-barca-geta"
-    },
-
-
-
-   {
-      "id": "laliga-real-villa",
-      "sport": "football",
-      "hot_match": "no",
-      "featured_match": "no",
-      "competition": "LaLiga Round 8",
-      "competition_short": "LALIGA",
-      "badge": "laliga",
-      "home_team": "Real Madrid",
-      "away_team": "Villarreal",
-      "home_flag": "⚽",
-      "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-      "venue": "Estadio Bernabéu",
-      "start": "2026-10-11T00:45:00+05:45",
-      "end": "2026-10-11T02:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-real-villa"
-    },
-
-
-
-   {
-      "id": "seriea-int-par",
+      "id": "seriea-como-roma",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Serie A Round 6",
       "competition_short": "SERIE A",
       "badge": "seriea",
-      "home_team": "Inter",
-      "away_team": "Parma",
+      "home_team": "Como",
+      "away_team": "Roma",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10167_small.png",
-      "venue": "Stadio Giuseppe Meazza",
-      "start": "2026-10-10T21:45:00+05:45",
-      "end": "2026-10-10T23:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-int-par"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+      "venue": "Stadio Giuseppe Sinigaglia",
+      "start": "2026-10-11T16:15:00+05:45",
+      "end": "2026-10-11T18:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-como-roma"
     },
 
 
 
    {
-      "id": "bundesliga-augs-baye",
+      "id": "seriea-sass-mil",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Bundesliga Round 5",
-      "competition_short": "BUNDESLIGA",
-      "badge": "bundesliga",
-      "home_team": "Augsburg",
-      "away_team": "Bayern München",
+      "competition": "Serie A Round 6",
+      "competition_short": "SERIE A",
+      "badge": "seriea",
+      "home_team": "Sassuolo",
+      "away_team": "Milan",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-      "venue": "WWK Arena",
-      "start": "2026-10-10T19:15:00+05:45",
-      "end": "2026-10-10T21:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=bundesliga-augs-baye"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+      "venue": "MAPEI Stadium - Città del Tricolore",
+      "start": "2026-10-11T21:45:00+05:45",
+      "end": "2026-10-11T23:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-sass-mil"
     },
 
 
 
    {
-      "id": "ligue1-psg-man",
+      "id": "seriea-cag-juv",
       "sport": "football",
       "hot_match": "no",
       "featured_match": "no",
-      "competition": "Ligue 1 Round 6",
-      "competition_short": "LIGUE 1",
-      "badge": "ligue1",
-      "home_team": "Paris Saint-Germain",
-      "away_team": "Le Mans",
+      "competition": "Serie A Round 6",
+      "competition_short": "SERIE A",
+      "badge": "seriea",
+      "home_team": "Cagliari",
+      "away_team": "Juventus",
       "home_flag": "⚽",
       "away_flag": "⚽",
-      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8682_small.png",
-      "venue": "Parc des Princes",
-      "start": "2026-10-11T00:30:00+05:45",
-      "end": "2026-10-11T02:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ligue1-psg-man"
+      "home_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+      "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+      "venue": "Unipol Domus",
+      "start": "2026-10-12T00:30:00+05:45",
+      "end": "2026-10-12T02:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-cag-juv"
     },
-
 
 
    {
