@@ -199,8 +199,8 @@
       "id": "t20-ind-wi",
       "sport": "cricket",
       "hot_match": "no",
-      "competition": "2nd T20",
-      "competition_short": "T20 2 of 5",
+      "competition": "4th T20",
+      "competition_short": "T20 4 of 5",
       "badge": "t20",
       "home_team": "India",
       "away_team": "West Indies",
@@ -210,8 +210,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/V.png",
       "format": "T20",
       "venue": "JSCA International Cricket Stadium Complex",
-      "start": "2026-10-11T19:15:00+05:45",
-      "end": "2026-10-11T23:15:00+05:45",
+      "start": "2026-10-14T19:15:00+05:45",
+      "end": "2026-10-14T23:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-ind-wi"
     },
     {
@@ -251,8 +251,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/P.png",
       "format": "TEST",
       "venue": "Kingsmead, Durban",
-      "start": "2026-10-11T13:15:00+05:45",
-      "end": "2026-10-11T20:15:00+05:45",
+      "start": "2026-10-13T13:15:00+05:45",
+      "end": "2026-10-13T20:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-aus-afr"
     },
 
@@ -263,7 +263,7 @@
       "sport": "cricket",
       "hot_match": "no",
       "competition": "SL vs PAK 2026",
-      "competition_short": "T20 1 of 3",
+      "competition_short": "T20 3 of 3",
       "badge": "t20",
       "home_team": "Pakistan",
       "away_team": "Sri Lanka",
@@ -273,8 +273,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "format": "T20",
       "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
-      "start": "2026-10-11T18:45:00+05:45",
-      "end": "2026-10-11T22:45:00+05:45",
+      "start": "2026-10-13T18:45:00+05:45",
+      "end": "2026-10-13T22:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-pak-sri"
     },
 
@@ -294,30 +294,30 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/W.png",
       "format": "ODI",
       "venue": "Zayed Cricket Stadium, Abu Dhabi",
-      "start": "2026-10-11T11:45:00+05:45",
-      "end": "2026-10-11T17:45:00+05:45",
+      "start": "2026-10-13T11:45:00+05:45",
+      "end": "2026-10-13T17:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-afg-ban"
     },
     
     {
-      "id": "cwc-can-np",
+      "id": "cwc-om-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "CWC League-2 2023-27",
       "competition_short": "CWC League-2",
       "badge": "odi",
-      "home_team": "Canada",
+      "home_team": "Oman",
       "away_team": "Nepal",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/70.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/15.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
       "format": "ODI",
       "venue": "Al Amerat Cricket Ground",
-      "start": "2026-10-11T11:45:00+05:45",
-      "end": "2026-10-11T18:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-can-np"
+      "start": "2026-10-13T11:15:00+05:45",
+      "end": "2026-10-13T18:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-om-np"
     }
   ]
 }
