@@ -300,24 +300,24 @@
     },
     
     {
-      "id": "cwc-om-np",
+      "id": "cwc-can-np",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "CWC League-2 2023-27",
       "competition_short": "CWC League-2",
       "badge": "odi",
-      "home_team": "Oman",
+      "home_team": "Canada",
       "away_team": "Nepal",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/15.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/70.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/19.png",
       "format": "ODI",
       "venue": "Al Amerat Cricket Ground",
-      "start": "2026-10-13T11:15:00+05:45",
-      "end": "2026-10-13T18:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-om-np"
+      "start": "2026-10-17T11:15:00+05:45",
+      "end": "2026-10-17T18:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=cwc-can-np"
     }
   ]
 }
