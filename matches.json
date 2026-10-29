@@ -1,5 +1,5 @@
-{
-  "updated": "2026-09-13T00:00:00+05:45",
+ {
+ "updated": "2026-09-13T00:00:00+05:45",
   "matches": [
     {
       "id": "epl-liv-bri",
@@ -20,6 +20,8 @@
       "end": "2026-10-25T21:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-liv-bri"
     },
+
+   
     {
       "id": "epl-man-afc",
       "sport": "football",
@@ -39,7 +41,10 @@
       "end": "2026-10-25T21:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=epl-man-afc"
     },
-    {
+
+
+
+   {
       "id": "laliga-barca-real",
       "sport": "football",
       "hot_match": "no",
@@ -58,7 +63,10 @@
       "end": "2026-10-26T03:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=laliga-barca-real"
     },
-    {
+
+
+
+   {
       "id": "seriea-int-fio",
       "sport": "football",
       "hot_match": "no",
@@ -77,7 +85,10 @@
       "end": "2026-10-25T19:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-int-fio"
     },
-    {
+
+
+
+   {
       "id": "seriea-lec-juv",
       "sport": "football",
       "hot_match": "no",
@@ -93,10 +104,13 @@
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
       "venue": "Stadio Ettore Giardiniero - Via del Mare",
       "start": "2026-10-25T22:45:00+05:45",
-      "end": "2026-10-26T00:45:00+05:45",
+      "end": "2026-10-25T24:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=seriea-lec-juv"
     },
-    {
+
+
+
+   {
       "id": "bundesliga-fre-bay",
       "sport": "football",
       "hot_match": "no",
@@ -112,10 +126,12 @@
       "away_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
       "venue": "Europa-Park Stadion",
       "start": "2026-10-25T22:15:00+05:45",
-      "end": "2026-10-26T00:15:00+05:45",
+      "end": "2026-10-25T24:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=bundesliga-fre-bay"
     },
-    {
+
+
+   {
       "id": "afc-nassr-wasl",
       "sport": "football",
       "hot_match": "no",
@@ -134,7 +150,9 @@
       "end": "2026-10-27T03:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=afc-nassr-wasl"
     },
-    {
+
+
+   {
       "id": "mls-miami-cin",
       "sport": "football",
       "hot_match": "no",
@@ -153,7 +171,9 @@
       "end": "2026-10-29T07:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=mls-miami-cin"
     },
-    {
+
+
+{
       "id": "ufc-dhant-murdoch",
       "sport": "ufc",
       "hot_match": "yes",
@@ -172,13 +192,15 @@
       "end": "2026-09-19T19:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=ufc-dhant-murdoch"
     },
+   
+    
+    
     {
       "id": "t20-ind-zea",
       "sport": "cricket",
       "hot_match": "no",
-      "featured_match": "no",
-      "competition": "IND vs NZ 2026",
-      "competition_short": "T20 4 of 5",
+      "competition": " IND vs NZ 2026",
+      "competition_short": "T20 3 of 5",
       "badge": "t20",
       "home_team": "India",
       "away_team": "New Zealand",
@@ -187,16 +209,15 @@
       "home_logo": "https://cricketvectors.akamaized.net/Teams/O.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/R.png",
       "format": "T20",
-      "venue": "Sky Stadium, Wellington",
-      "start": "2026-10-30T12:45:00+05:45",
-      "end": "2026-10-30T16:45:00+05:45",
+      "venue": "Hnry Stadium, Wellington",
+      "start": "2026-10-27T12:45:00+05:45",
+      "end": "2026-10-27T16:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-ind-zea"
     },
     {
       "id": "odi-zw-aus",
       "sport": "cricket",
       "hot_match": "no",
-      "featured_match": "no",
       "competition": "2nd ODI",
       "competition_short": "ODI 2 of 3",
       "badge": "odi",
@@ -212,11 +233,13 @@
       "end": "2026-09-18T20:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-zw-aus"
     },
-    {
+
+   
+
+   {
       "id": "test-aus-afr",
       "sport": "cricket",
       "hot_match": "no",
-      "featured_match": "no",
       "competition": "Australia tour of South Africa 2026",
       "competition_short": "TEST 3 of 3",
       "badge": "test",
@@ -232,33 +255,36 @@
       "end": "2026-10-27T21:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=test-aus-afr"
     },
-    {
-      "id": "odi-eng-sri",
+
+
+
+   {
+      "id": "odi-pak-sri",
       "sport": "cricket",
       "hot_match": "no",
-      "featured_match": "no",
       "competition": "Tri Series in PAK",
-      "competition_short": "6th ODI",
+      "competition_short": "5th ODI",
       "badge": "odi",
-      "home_team": "England",
+      "home_team": "Pakistan",
       "away_team": "Sri Lanka",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/S.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/U.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "format": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "start": "2026-10-29T13:45:00+05:45",
-      "end": "2026-10-29T21:15:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-eng-sri"
+      "start": "2026-10-27T13:45:00+05:45",
+      "end": "2026-10-27T20:45:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-pak-sri"
     },
-    {
+
+   {
       "id": "t20-afg-zim",
       "sport": "cricket",
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Afghanistan vs Zimbabwe in UAE 2026",
-      "competition_short": "2nd T20I",
+      "competition_short": "AFG vs ZIM",
       "badge": "t20",
       "home_team": "Afghanistan",
       "away_team": "Zimbabwe",
@@ -268,10 +294,11 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/X.png",
       "format": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "start": "2026-10-29T20:15:00+05:45",
-      "end": "2026-10-30T00:15:00+05:45",
+      "start": "2026-10-27T20:15:00+05:45",
+      "end": "2026-10-28T00:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-afg-zim"
     },
+    
     {
       "id": "npl-yaks-kings",
       "sport": "cricket",
@@ -292,25 +319,26 @@
       "end": "2026-10-29T21:00:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-yaks-kings"
     },
-    {
-      "id": "npl-bolts-gurkhas",
+
+   {
+      "id": "npl-lions-rhinos",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Janakpur Bolts",
-      "away_team": "Kathmandu Gurkhas",
+      "home_team": "Lumbini Lions",
+      "away_team": "Chitwan Rhinos",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-10-29T12:30:00+05:45",
-      "end": "2026-10-29T16:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-bolts-gurkhas"
+      "start": "2026-10-31T12:30:00+05:45",
+      "end": "2026-10-31T16:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-lions-rhinos"
     }
   ]
 }
