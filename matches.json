@@ -200,7 +200,7 @@
       "sport": "cricket",
       "hot_match": "no",
       "competition": " IND vs NZ 2026",
-      "competition_short": "T20 3 of 5",
+      "competition_short": "T20 4 of 5",
       "badge": "t20",
       "home_team": "India",
       "away_team": "New Zealand",
@@ -210,8 +210,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/R.png",
       "format": "T20",
       "venue": "Hnry Stadium, Wellington",
-      "start": "2026-10-27T12:45:00+05:45",
-      "end": "2026-10-27T16:45:00+05:45",
+      "start": "2026-10-30T12:45:00+05:45",
+      "end": "2026-10-30T16:45:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-ind-zea"
     },
     {
@@ -259,23 +259,23 @@
 
 
    {
-      "id": "odi-pak-sri",
+      "id": "odi-eng-sri",
       "sport": "cricket",
       "hot_match": "no",
       "competition": "Tri Series in PAK",
-      "competition_short": "5th ODI",
+      "competition_short": "6th ODI",
       "badge": "odi",
-      "home_team": "Pakistan",
+      "home_team": "England",
       "away_team": "Sri Lanka",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/U.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/S.png",
       "away_logo": "https://cricketvectors.akamaized.net/Teams/T.png",
       "format": "ODI",
       "venue": "Gaddafi Stadium, Lahore",
-      "start": "2026-10-27T13:45:00+05:45",
-      "end": "2026-10-27T20:45:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-pak-sri"
+      "start": "2026-10-29T13:45:00+05:45",
+      "end": "2026-10-29T21:15:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=odi-eng-sri"
     },
 
    {
@@ -284,7 +284,7 @@
       "hot_match": "no",
       "featured_match": "no",
       "competition": "Afghanistan vs Zimbabwe in UAE 2026",
-      "competition_short": "AFG vs ZIM",
+      "competition_short": "2nd T20I",
       "badge": "t20",
       "home_team": "Afghanistan",
       "away_team": "Zimbabwe",
@@ -294,8 +294,8 @@
       "away_logo": "https://cricketvectors.akamaized.net/Teams/X.png",
       "format": "T20",
       "venue": "Sharjah Cricket Stadium, Sharjah",
-      "start": "2026-10-27T20:15:00+05:45",
-      "end": "2026-10-28T00:15:00+05:45",
+      "start": "2026-10-29T20:15:00+05:45",
+      "end": "2026-10-30T00:15:00+05:45",
       "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=t20-afg-zim"
     },
     
