@@ -300,24 +300,24 @@
     },
     
     {
-      "id": "npl-avengers-royals",
+      "id": "npl-yaks-kings",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Pokhara Avengers",
-      "away_team": "Sudurpaschim Royals",
+      "home_team": "Karnali Yaks",
+      "away_team": "Biratnagar Kings",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-10-28T17:00:00+05:45",
-      "end": "2026-10-28T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-avengers-royals"
+      "start": "2026-10-29T17:00:00+05:45",
+      "end": "2026-10-29T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-yaks-kings"
     },
 
    {
