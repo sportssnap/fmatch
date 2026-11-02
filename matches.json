@@ -260,24 +260,24 @@
 
 
     {
-      "id": "npl-bolts-avengers",
+      "id": "npl-royals-rhinos",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Janakpur Bolts",
-      "away_team": "Pokhara Avengers",
+      "home_team": "Sudurpaschim Royals",
+      "away_team": "Chitwan Rhinos",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-01T17:00:00+05:45",
-      "end": "2026-11-01T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-bolts-avengers"
+      "start": "2026-11-02T17:00:00+05:45",
+      "end": "2026-11-02T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-royals-rhinos"
     }
   ]
 }
