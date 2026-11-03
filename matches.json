@@ -110,7 +110,7 @@
       "id": "ufc-dhant-murdoch",
       "sport": "ufc",
       "hot_match": "yes",
-      "featured_match": "yes",
+      "featured_match": "no",
       "competition": "UFC - Road to UFC Season 5: Shanghai Semifinals",
       "competition_short": "Shanghai Semifinals",
       "badge": "ufc",
@@ -238,46 +238,46 @@
 
 
     {
-      "id": "npl-gurkhas-yaks",
+      "id": "npl-kings-bolts",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Kathmandu Gurkhas",
-      "away_team": "Karnali Yaks",
+      "home_team": "Biratnagar Kings",
+      "away_team": "Janakpur Bolts",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-02T12:30:00+05:45",
-      "end": "2026-11-02T16:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-gurkhas-yaks"
+      "start": "2026-11-03T12:30:00+05:45",
+      "end": "2026-11-03T16:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-kings-bolts"
     },
 
 
     {
-      "id": "npl-royals-rhinos",
+      "id": "npl-lions-avengers",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Sudurpaschim Royals",
-      "away_team": "Chitwan Rhinos",
+      "home_team": "Lumbini Lions",
+      "away_team": "Pokhara Avengers",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-02T17:00:00+05:45",
-      "end": "2026-11-02T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-royals-rhinos"
+      "start": "2026-11-03T17:00:00+05:45",
+      "end": "2026-11-03T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-lions-avengers"
     }
   ]
 }
