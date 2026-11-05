@@ -238,29 +238,7 @@
 
 
     {
-      "id": "npl-kings-bolts",
-      "sport": "cricket",
-      "hot_match": "yes",
-      "featured_match": "yes",
-      "competition": "Nepal Premier League 2026",
-      "competition_short": "NPL",
-      "badge": "t20",
-      "home_team": "Biratnagar Kings",
-      "away_team": "Janakpur Bolts",
-      "home_flag": "🏏",
-      "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "format": "T20",
-      "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-03T12:30:00+05:45",
-      "end": "2026-11-03T16:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-kings-bolts"
-    },
-
-
-    {
-      "id": "npl-lions-avengers",
+      "id": "npl-lions-bolts",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
@@ -268,16 +246,38 @@
       "competition_short": "NPL",
       "badge": "t20",
       "home_team": "Lumbini Lions",
-      "away_team": "Pokhara Avengers",
+      "away_team": "Janakpur Bolts",
       "home_flag": "🏏",
       "away_flag": "🏏",
       "home_logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-03T17:00:00+05:45",
-      "end": "2026-11-03T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-lions-avengers"
+      "start": "2026-11-05T12:30:00+05:45",
+      "end": "2026-11-05T16:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-lions-bolts"
+    },
+
+
+    {
+      "id": "npl-gurkhas-kings",
+      "sport": "cricket",
+      "hot_match": "yes",
+      "featured_match": "yes",
+      "competition": "Nepal Premier League 2026",
+      "competition_short": "NPL",
+      "badge": "t20",
+      "home_team": "Kathmandu Gurkhas",
+      "away_team": "Biratnagar Kings",
+      "home_flag": "🏏",
+      "away_flag": "🏏",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PU.png",
+      "format": "T20",
+      "venue": "Tribhuvan University International Cricket Ground",
+      "start": "2026-11-05T17:00:00+05:45",
+      "end": "2026-11-05T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-gurkhas-kings"
     }
   ]
 }
