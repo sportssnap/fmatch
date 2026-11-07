@@ -365,24 +365,24 @@
 
 
     {
-      "id": "npl-rhinos-avengers",
+      "id": "npl-gurkhas-lions",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Chitwan Rhinos",
-      "away_team": "Pokhara Avengers",
+      "home_team": "Kathmandu Gurkhas",
+      "away_team": "Lumbini Lions",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-06T17:00:00+05:45",
-      "end": "2026-11-06T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-rhinos-avengers"
+      "start": "2026-11-07T17:00:00+05:45",
+      "end": "2026-11-07T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-gurkhas-lions"
     }
   ]
 }
