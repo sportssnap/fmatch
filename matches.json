@@ -343,46 +343,46 @@
 
 
     {
-      "id": "npl-gurkhas-royals",
+      "id": "npl-rhinos-yaks",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Kathmandu Gurkhas",
-      "away_team": "Sudurpaschim Royals",
+      "home_team": "Chitwan Rhinos",
+      "away_team": "Karnali Yaks",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZW.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-13T12:30:00+05:45",
-      "end": "2026-11-13T16:30:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-gurkhas-royals"
+      "start": "2026-11-15T12:30:00+05:45",
+      "end": "2026-11-15T16:30:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-rhinos-yaks"
     },
 
 
     {
-      "id": "npl-bolts-rhinos",
+      "id": "npl-avengers-gurkhas",
       "sport": "cricket",
       "hot_match": "yes",
       "featured_match": "yes",
       "competition": "Nepal Premier League 2026",
       "competition_short": "NPL",
       "badge": "t20",
-      "home_team": "Janakpur Bolts",
-      "away_team": "Chitwan Rhinos",
+      "home_team": "Pokhara Avengers",
+      "away_team": "Kathmandu Gurkhas",
       "home_flag": "🏏",
       "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PV.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZV.png",
+      "home_logo": "https://cricketvectors.akamaized.net/Teams/PW.png",
+      "away_logo": "https://cricketvectors.akamaized.net/Teams/PT.png",
       "format": "T20",
       "venue": "Tribhuvan University International Cricket Ground",
-      "start": "2026-11-13T17:00:00+05:45",
-      "end": "2026-11-13T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-royals-bolts"
+      "start": "2026-11-15T17:00:00+05:45",
+      "end": "2026-11-15T21:00:00+05:45",
+      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-avengers-gurkhas"
     }
   ]
 }
