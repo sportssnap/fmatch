@@ -365,24 +365,23 @@
 
 
     {
-      "id": "npl-lions-royals",
-      "sport": "cricket",
+      "id": "sportssnap",
+      "sport": "SportsSnap",
       "hot_match": "yes",
       "featured_match": "yes",
-      "competition": "Nepal Premier League 2026",
-      "competition_short": "NPL Final",
-      "badge": "t20",
-      "home_team": "Lumbini Lions",
-      "away_team": "Sudurpaschim Royals",
-      "home_flag": "🏏",
-      "away_flag": "🏏",
-      "home_logo": "https://cricketvectors.akamaized.net/Teams/PS.png",
-      "away_logo": "https://cricketvectors.akamaized.net/Teams/ZY.png",
-      "format": "T20",
-      "venue": "Tribhuvan University International Cricket Ground",
+      "competition": "Sports Snap All Sports Live",
+      "competition_short": "Sports Snap Live",
+      "badge": "sportssnap",
+      "home_team": "All Live Sports ",
+      "home_flag": "🔴",
+      "away_flag": "🔴",
+      "home_logo": "https://i.ibb.co/v477M1M2/Sports-Snap-Live-Logo.png",
+      "away_logo": "https://i.ibb.co/v477M1M2/Sports-Snap-Live-Logo.png",
+      "format": "Live",
+      "venue": "Sports Snap",
       "start": "2026-11-21T17:00:00+05:45",
-      "end": "2026-11-21T21:00:00+05:45",
-      "stream_url": "https://sportssnap.github.io/flive/flink?sportssnap=npl-lions-royals"
+      "end": "2027-11-21T21:00:00+05:45",
+      "stream_url": "https://shorturl.at/NAxf0"
     }
   ]
 }
